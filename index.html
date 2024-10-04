@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>24-Hour Schedule Web App</title>
+    <script src="script.js"></script>
+    <script src="path/to/canvasjs.min.js"></script>
+    <style>
+        #chartContainer {
+            width: 400px;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <h1>24-Hour Schedule Web App</h1>
+    <div id="chartContainer"></div>
+    <form id="scheduleForm">
+        <label for="taskName">Task Name:</label>
+        <input type="text" id="taskName">
+        <label for="taskDuration">Task Duration (in minutes):</label>
+        <input type="number" id="taskDuration">
+        <button type="button" onclick="addTask()">Add Task</button>
+    </form>
+</body>
+</html>
