@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}",
+            "cwd": "${workspaceFolder}",
+            "targetArchitecture": "x86_64"  // 또는 'x86' 시스템에 따라 설정
+        }
+    ]
+}
