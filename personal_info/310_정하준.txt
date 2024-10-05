@@ -1,0 +1,6 @@
+name : ¡§«œ¡ÿ
+age : 21
+e-mail : ls70tflc@bhban.com
+division : 532
+telephone : 010-5932-3931
+sex : female

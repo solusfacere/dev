@@ -1,0 +1,6 @@
+name : Á¤µµ¿ø
+age : 29
+e-mail : 3deyrgo3@bhban.com
+division : idt
+telephone : 010-2331-5329
+sex : male

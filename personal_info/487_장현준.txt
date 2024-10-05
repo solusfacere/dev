@@ -1,0 +1,6 @@
+name : ภๅว๖มุ
+age : 24
+e-mail : xd3nme91@bhban.com
+division : r42
+telephone : 010-3324-4538
+sex : male

@@ -1,0 +1,6 @@
+name : ±è¹ÎÁø
+age : 32
+e-mail : u9knrdi0@bhban.com
+division : nv6
+telephone : 010-3438-5133
+sex : male

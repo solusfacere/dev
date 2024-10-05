@@ -12,8 +12,8 @@
 ## 📁 Repository Categories
 
 ### 1. Work
-- **HRD Projects**: Internal education and training materials related to HR development.
 - **Financial IT**: Projects focused on financial cloud services and system development.
+- **HRD Projects**: Internal education and training materials related to HR development.
 - **Projects**: Progress on various development projects, including web and AI.
 
 ### 2. Personal Development

@@ -1,0 +1,6 @@
+name : Á¤Ã¤Áø
+age : 22
+e-mail : ek2fasm7@bhban.com
+division : tmb
+telephone : 010-4094-1282
+sex : male

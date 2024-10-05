@@ -1,0 +1,6 @@
+name : Á¤ÁöÀº
+age : 20
+e-mail : hx049mh9@bhban.com
+division : q9p
+telephone : 010-3382-9445
+sex : male

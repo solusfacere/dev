@@ -1,0 +1,6 @@
+name : юсаЖаЬ
+age : 22
+e-mail : wwqw80de@bhban.com
+division : 5f7
+telephone : 010-3906-4090
+sex : male

@@ -1,0 +1,6 @@
+name : ±èÁö¾Æ
+age : 70
+e-mail : 2d2riian@bhban.com
+division : il9
+telephone : 010-8345-7442
+sex : female

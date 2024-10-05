@@ -1,0 +1,6 @@
+name : ¿±¡ˆ¡ÿ
+age : 50
+e-mail : kcvbhihi@bhban.com
+division : krz
+telephone : 010-4313-2077
+sex : male

@@ -1,0 +1,6 @@
+name : Á¶Ã¤¼­
+age : 22
+e-mail : uit1sb0t@bhban.com
+division : bpr
+telephone : 010-2060-1960
+sex : male

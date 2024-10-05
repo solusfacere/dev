@@ -1,0 +1,6 @@
+name : ÀÌÇö¼­
+age : 22
+e-mail : 3f8vfazh@bhban.com
+division : 6er
+telephone : 010-1609-2839
+sex : female

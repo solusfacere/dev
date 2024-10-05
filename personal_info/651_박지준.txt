@@ -1,0 +1,6 @@
+name : นฺม๖มุ
+age : 55
+e-mail : fp5hshtv@bhban.com
+division : 23z
+telephone : 010-3158-4003
+sex : male

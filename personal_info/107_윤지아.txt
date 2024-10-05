@@ -1,0 +1,6 @@
+name : À±Áö¾Æ
+age : 20
+e-mail : 6t3z95o1@bhban.com
+division : 8rs
+telephone : 010-7029-9176
+sex : male

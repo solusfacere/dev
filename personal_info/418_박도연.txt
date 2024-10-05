@@ -1,0 +1,6 @@
+name : ¹Úµµ¿¬
+age : 34
+e-mail : 85zz67bg@bhban.com
+division : b05
+telephone : 010-9772-2611
+sex : female

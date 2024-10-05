@@ -1,0 +1,6 @@
+name : ±è¹Î¼­
+age : 37
+e-mail : 0xel5gza@bhban.com
+division : 1ta
+telephone : 010-1892-1525
+sex : male

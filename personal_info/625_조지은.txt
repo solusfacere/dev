@@ -1,0 +1,6 @@
+name : Á¶ÁöÀº
+age : 30
+e-mail : sbuemy1g@bhban.com
+division : 0aq
+telephone : 010-2040-7403
+sex : male

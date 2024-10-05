@@ -1,0 +1,6 @@
+name : Á¶¿¹¾Æ
+age : 48
+e-mail : bzyoc2oi@bhban.com
+division : ali
+telephone : 010-5483-7104
+sex : male

@@ -1,0 +1,6 @@
+name : ภฬม๖มุ
+age : 20
+e-mail : cq7s9dmw@bhban.com
+division : eul
+telephone : 010-7485-7179
+sex : female

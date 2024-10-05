@@ -1,0 +1,6 @@
+name : Á¶Áö¿¬
+age : 30
+e-mail : 8b9a6vke@bhban.com
+division : cw6
+telephone : 010-8690-2866
+sex : male

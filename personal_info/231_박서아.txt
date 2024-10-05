@@ -1,0 +1,6 @@
+name : ¹Ú¼­¾Æ
+age : 32
+e-mail : 28nancu8@bhban.com
+division : axm
+telephone : 010-3880-8715
+sex : female

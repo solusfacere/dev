@@ -1,0 +1,6 @@
+name : Á¤¿¹Àº
+age : 29
+e-mail : sxd1tklp@bhban.com
+division : z2i
+telephone : 010-2112-9999
+sex : female

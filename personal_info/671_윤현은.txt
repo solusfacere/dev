@@ -1,0 +1,6 @@
+name : À±ÇöÀº
+age : 26
+e-mail : o3d3xxtq@bhban.com
+division : dym
+telephone : 010-6261-3639
+sex : male

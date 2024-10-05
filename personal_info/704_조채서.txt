@@ -1,0 +1,6 @@
+name : Á¶Ã¤¼­
+age : 22
+e-mail : fpk77kky@bhban.com
+division : xt6
+telephone : 010-2899-2149
+sex : male

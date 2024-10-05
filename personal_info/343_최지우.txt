@@ -1,0 +1,6 @@
+name : ÃÖÁö¿ì
+age : 25
+e-mail : z2km9s2k@bhban.com
+division : 3lf
+telephone : 010-4495-4530
+sex : male

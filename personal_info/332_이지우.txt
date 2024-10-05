@@ -1,0 +1,6 @@
+name : ÀÌÁö¿ì
+age : 47
+e-mail : cke344of@bhban.com
+division : mkt
+telephone : 010-8319-2522
+sex : male

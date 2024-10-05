@@ -1,0 +1,6 @@
+name : ÀÌ¹Î¿¬
+age : 66
+e-mail : gy771czu@bhban.com
+division : i2e
+telephone : 010-3043-2887
+sex : male

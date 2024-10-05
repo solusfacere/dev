@@ -1,0 +1,6 @@
+name : À±ÇöÁØ
+age : 22
+e-mail : 8zlzzvx1@bhban.com
+division : n1x
+telephone : 010-8508-9501
+sex : female

@@ -1,0 +1,6 @@
+name : ÃÖÁöÈÄ
+age : 26
+e-mail : 7rylco6v@bhban.com
+division : bgc
+telephone : 010-5254-2365
+sex : male

@@ -1,0 +1,6 @@
+name : ¹ÚÃ¤¾Æ
+age : 41
+e-mail : ifqlry6d@bhban.com
+division : opt
+telephone : 010-2364-6565
+sex : male

@@ -1,0 +1,6 @@
+name : Àå¿¹¾Æ
+age : 57
+e-mail : myacidzz@bhban.com
+division : kyh
+telephone : 010-2283-9310
+sex : male

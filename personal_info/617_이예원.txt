@@ -1,0 +1,6 @@
+name : ÀÌ¿¹¿ø
+age : 21
+e-mail : yfcr48nv@bhban.com
+division : uf4
+telephone : 010-1352-5166
+sex : male

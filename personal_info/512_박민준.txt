@@ -1,0 +1,6 @@
+name : นฺนฮมุ
+age : 70
+e-mail : qiautzf9@bhban.com
+division : 2w0
+telephone : 010-5744-5445
+sex : male

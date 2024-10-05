@@ -1,0 +1,6 @@
+name : юсгоаЬ
+age : 44
+e-mail : y5ri2e3s@bhban.com
+division : kx5
+telephone : 010-1039-8959
+sex : male

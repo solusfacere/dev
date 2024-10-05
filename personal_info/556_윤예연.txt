@@ -1,0 +1,6 @@
+name : À±¿¹¿¬
+age : 21
+e-mail : xc411v7x@bhban.com
+division : qp0
+telephone : 010-1394-6149
+sex : male

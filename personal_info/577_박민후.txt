@@ -1,0 +1,6 @@
+name : ¹Ú¹ÎÈÄ
+age : 43
+e-mail : p2aexuyp@bhban.com
+division : ciw
+telephone : 010-6174-7769
+sex : female

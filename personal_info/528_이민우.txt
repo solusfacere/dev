@@ -1,0 +1,6 @@
+name : ÀÌ¹Î¿ì
+age : 25
+e-mail : uravmp1l@bhban.com
+division : 0xu
+telephone : 010-4954-9143
+sex : female

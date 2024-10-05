@@ -1,0 +1,6 @@
+name : Á¤¼­¿¬
+age : 21
+e-mail : o29hv21m@bhban.com
+division : trr
+telephone : 010-2079-9025
+sex : male

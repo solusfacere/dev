@@ -1,0 +1,6 @@
+name : юсгохё
+age : 29
+e-mail : 31vmotzp@bhban.com
+division : t07
+telephone : 010-3666-6772
+sex : male

@@ -1,0 +1,6 @@
+name : ±è¹Î¼­
+age : 46
+e-mail : sarykc54@bhban.com
+division : bau
+telephone : 010-3869-3729
+sex : female

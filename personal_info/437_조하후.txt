@@ -1,0 +1,6 @@
+name : а╤гохд
+age : 29
+e-mail : bzksklri@bhban.com
+division : x75
+telephone : 010-7272-1311
+sex : male

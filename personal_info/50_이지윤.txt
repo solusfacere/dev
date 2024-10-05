@@ -1,0 +1,6 @@
+name : ÀÌÁöÀ±
+age : 27
+e-mail : 81b15o0d@bhban.com
+division : cir
+telephone : 010-2133-6674
+sex : male

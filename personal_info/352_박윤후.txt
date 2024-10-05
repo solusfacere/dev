@@ -1,0 +1,6 @@
+name : ¹ÚÀ±ÈÄ
+age : 64
+e-mail : ky8entrr@bhban.com
+division : cry
+telephone : 010-2217-2727
+sex : female

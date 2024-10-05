@@ -1,0 +1,6 @@
+name : РЬУЄСи
+age : 42
+e-mail : qnlck0rq@bhban.com
+division : mqo
+telephone : 010-7663-9657
+sex : male

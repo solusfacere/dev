@@ -1,0 +1,6 @@
+name : Á¶Áö¿ø
+age : 42
+e-mail : 3c596sql@bhban.com
+division : dme
+telephone : 010-2193-7140
+sex : male

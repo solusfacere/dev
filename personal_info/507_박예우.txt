@@ -1,0 +1,6 @@
+name : ¹Ú¿¹¿ì
+age : 37
+e-mail : zcpxnylo@bhban.com
+division : ss7
+telephone : 010-6641-2480
+sex : male

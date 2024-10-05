@@ -1,0 +1,6 @@
+name : ÀåÇö¾Æ
+age : 27
+e-mail : m25l3z4z@bhban.com
+division : mlb
+telephone : 010-5025-1628
+sex : female

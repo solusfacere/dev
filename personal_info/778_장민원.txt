@@ -1,0 +1,6 @@
+name : Àå¹Î¿ø
+age : 28
+e-mail : 0prgdry8@bhban.com
+division : br6
+telephone : 010-3742-2832
+sex : male

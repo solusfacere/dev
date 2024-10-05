@@ -1,0 +1,6 @@
+name : ±èÁö¾Æ
+age : 22
+e-mail : 0sggz1mo@bhban.com
+division : c7n
+telephone : 010-3136-2067
+sex : male

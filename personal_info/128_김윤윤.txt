@@ -1,0 +1,6 @@
+name : ±Ë¿±¿±
+age : 28
+e-mail : 1ef53lxi@bhban.com
+division : ael
+telephone : 010-9555-3906
+sex : female

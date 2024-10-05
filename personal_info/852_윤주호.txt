@@ -1,0 +1,6 @@
+name : ¿±¡÷»£
+age : 70
+e-mail : aiwnicg7@bhban.com
+division : m11
+telephone : 010-3102-1232
+sex : male

@@ -1,0 +1,6 @@
+name : ±èÀ±ÈÄ
+age : 25
+e-mail : t4mai9zo@bhban.com
+division : gpk
+telephone : 010-6372-5452
+sex : female

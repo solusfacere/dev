@@ -1,0 +1,6 @@
+name : À±¿¹Àº
+age : 38
+e-mail : zg0ivlco@bhban.com
+division : 37x
+telephone : 010-3650-7930
+sex : male

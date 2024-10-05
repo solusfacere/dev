@@ -1,0 +1,6 @@
+name : À±¿¹¾Æ
+age : 20
+e-mail : wm1yl89o@bhban.com
+division : i2h
+telephone : 010-1723-7290
+sex : female

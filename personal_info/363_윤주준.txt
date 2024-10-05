@@ -1,0 +1,6 @@
+name : ¿±¡÷¡ÿ
+age : 30
+e-mail : f8vmoob1@bhban.com
+division : elp
+telephone : 010-8330-7258
+sex : male

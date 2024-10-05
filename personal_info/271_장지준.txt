@@ -1,0 +1,6 @@
+name : ภๅม๖มุ
+age : 31
+e-mail : pp1d4mpo@bhban.com
+division : m36
+telephone : 010-5357-2856
+sex : male

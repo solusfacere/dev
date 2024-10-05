@@ -1,0 +1,6 @@
+name : ¹ÚÀ±À±
+age : 44
+e-mail : hsksnpf9@bhban.com
+division : 04z
+telephone : 010-3407-1322
+sex : male

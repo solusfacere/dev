@@ -1,0 +1,6 @@
+name : ÀÌ¿¹ÈÄ
+age : 39
+e-mail : nzlluzms@bhban.com
+division : ugb
+telephone : 010-4416-3061
+sex : female

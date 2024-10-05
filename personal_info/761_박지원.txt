@@ -1,0 +1,6 @@
+name : ¹ÚÁö¿ø
+age : 24
+e-mail : elgyps40@bhban.com
+division : ptb
+telephone : 010-6962-7717
+sex : female

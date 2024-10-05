@@ -1,0 +1,6 @@
+name : ±èÇÏ¿ø
+age : 35
+e-mail : bu68awl9@bhban.com
+division : 9n0
+telephone : 010-6992-3952
+sex : female
