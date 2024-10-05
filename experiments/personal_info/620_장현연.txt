@@ -1,6 +1,0 @@
-name : ÀåÇö¿¬
-age : 20
-e-mail : u2v4gu8b@bhban.com
-division : ecp
-telephone : 010-5417-2734
-sex : female

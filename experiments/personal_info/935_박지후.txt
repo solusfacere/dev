@@ -1,6 +1,0 @@
-name : ¹ÚÁöÈÄ
-age : 34
-e-mail : zrv4xx5r@bhban.com
-division : uuf
-telephone : 010-8129-4111
-sex : female

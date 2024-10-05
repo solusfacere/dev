@@ -1,6 +1,0 @@
-name : ÃÖ¿¹Áø
-age : 40
-e-mail : 4nc8xdzc@bhban.com
-division : 6ic
-telephone : 010-5073-3728
-sex : male

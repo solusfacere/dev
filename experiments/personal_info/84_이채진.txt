@@ -1,6 +1,0 @@
-name : ¿Ã√§¡¯
-age : 33
-e-mail : a4m1svlq@bhban.com
-division : ph6
-telephone : 010-1154-9936
-sex : male

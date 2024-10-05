@@ -1,6 +1,0 @@
-name : À±ÇöÀ±
-age : 46
-e-mail : 644zfrbv@bhban.com
-division : et1
-telephone : 010-9169-5524
-sex : female

@@ -1,6 +1,0 @@
-name : ¡§¡÷¿∫
-age : 36
-e-mail : er0qik9c@bhban.com
-division : z10
-telephone : 010-7783-1065
-sex : male

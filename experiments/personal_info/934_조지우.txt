@@ -1,6 +1,0 @@
-name : Á¶Áö¿ì
-age : 33
-e-mail : 1k3yg59w@bhban.com
-division : 6v0
-telephone : 010-8177-9174
-sex : female

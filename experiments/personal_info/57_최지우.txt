@@ -1,6 +1,0 @@
-name : ÃÖÁö¿ì
-age : 21
-e-mail : 1qm5l77m@bhban.com
-division : vvo
-telephone : 010-8846-2042
-sex : male

@@ -1,6 +1,0 @@
-name : юсаЖаь
-age : 38
-e-mail : gfdstuq7@bhban.com
-division : cfl
-telephone : 010-3759-5743
-sex : female

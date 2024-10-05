@@ -1,6 +1,0 @@
-name : ÀÓÇöÈÄ
-age : 34
-e-mail : vxxqp3th@bhban.com
-division : vk6
-telephone : 010-7027-2223
-sex : female

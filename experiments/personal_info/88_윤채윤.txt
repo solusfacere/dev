@@ -1,6 +1,0 @@
-name : À±Ã¤À±
-age : 45
-e-mail : hdqpzddl@bhban.com
-division : ztk
-telephone : 010-6369-3494
-sex : male

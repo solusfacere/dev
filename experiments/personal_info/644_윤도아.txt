@@ -1,6 +1,0 @@
-name : À±µµ¾Æ
-age : 62
-e-mail : a3iei20i@bhban.com
-division : i7y
-telephone : 010-3900-1445
-sex : male

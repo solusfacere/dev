@@ -1,6 +1,0 @@
-name : ÀåÇöÁø
-age : 30
-e-mail : uohi30dq@bhban.com
-division : pp6
-telephone : 010-4643-2157
-sex : female

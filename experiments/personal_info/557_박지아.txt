@@ -1,6 +1,0 @@
-name : ¹ÚÁö¾Æ
-age : 68
-e-mail : xi3lx6tt@bhban.com
-division : sfg
-telephone : 010-2848-4762
-sex : male

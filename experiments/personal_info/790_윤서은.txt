@@ -1,6 +1,0 @@
-name : À±¼­Àº
-age : 31
-e-mail : vtt4quzb@bhban.com
-division : f3o
-telephone : 010-9069-1325
-sex : male

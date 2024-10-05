@@ -1,6 +1,0 @@
-name : юлгою╨
-age : 28
-e-mail : fcxsr374@bhban.com
-division : 80z
-telephone : 010-8953-6777
-sex : male

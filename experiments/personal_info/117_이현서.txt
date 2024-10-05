@@ -1,6 +1,0 @@
-name : ÀÌÇö¼­
-age : 53
-e-mail : 8z5qv7a5@bhban.com
-division : fmg
-telephone : 010-9798-6794
-sex : female

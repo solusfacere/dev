@@ -1,6 +1,0 @@
-name : À±¹ÎÈÄ
-age : 35
-e-mail : mqmwqebf@bhban.com
-division : qid
-telephone : 010-9449-4875
-sex : male

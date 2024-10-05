@@ -1,6 +1,0 @@
-name : À±¹ÎÈÄ
-age : 42
-e-mail : 71ycezhv@bhban.com
-division : zt7
-telephone : 010-1627-3268
-sex : male

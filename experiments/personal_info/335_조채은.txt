@@ -1,6 +1,0 @@
-name : Á¶Ã¤Àº
-age : 34
-e-mail : lx5mfkx4@bhban.com
-division : g1v
-telephone : 010-4647-5331
-sex : female

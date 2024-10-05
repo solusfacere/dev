@@ -1,6 +1,0 @@
-name : юсгою╨
-age : 68
-e-mail : 1z77etck@bhban.com
-division : 2pu
-telephone : 010-6575-4005
-sex : female

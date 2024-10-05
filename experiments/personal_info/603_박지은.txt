@@ -1,6 +1,0 @@
-name : ¹ÚÁöÀº
-age : 40
-e-mail : srfxcclp@bhban.com
-division : 6di
-telephone : 010-2212-9422
-sex : male

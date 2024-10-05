@@ -1,6 +1,0 @@
-name : Á¶¼­À±
-age : 53
-e-mail : nf4kuzdi@bhban.com
-division : gn3
-telephone : 010-5873-1205
-sex : male

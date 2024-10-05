@@ -1,6 +1,0 @@
-name : Àå¿¹Àº
-age : 41
-e-mail : 2zyb41mm@bhban.com
-division : zzq
-telephone : 010-1469-6860
-sex : male

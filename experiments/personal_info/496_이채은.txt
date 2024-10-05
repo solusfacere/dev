@@ -1,6 +1,0 @@
-name : ¿Ã√§¿∫
-age : 21
-e-mail : 1gcuupm4@bhban.com
-division : qcb
-telephone : 010-6934-7232
-sex : male

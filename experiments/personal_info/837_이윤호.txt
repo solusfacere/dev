@@ -1,6 +1,0 @@
-name : ¿Ã¿±»£
-age : 44
-e-mail : u2k7b26b@bhban.com
-division : nl5
-telephone : 010-6074-3677
-sex : male

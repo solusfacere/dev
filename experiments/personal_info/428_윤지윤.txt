@@ -1,6 +1,0 @@
-name : À±ÁöÀ±
-age : 69
-e-mail : 8iqa7hub@bhban.com
-division : zvd
-telephone : 010-7359-3766
-sex : female

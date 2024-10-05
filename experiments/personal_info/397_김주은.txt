@@ -1,6 +1,0 @@
-name : ±Ë¡÷¿∫
-age : 38
-e-mail : 3dth6tw7@bhban.com
-division : 94h
-telephone : 010-7113-5534
-sex : female

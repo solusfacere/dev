@@ -1,6 +1,0 @@
-name : цжгохд
-age : 26
-e-mail : gzya202w@bhban.com
-division : w5b
-telephone : 010-8342-2168
-sex : female

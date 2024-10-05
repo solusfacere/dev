@@ -1,6 +1,0 @@
-name : ¿Ã¡÷»£
-age : 46
-e-mail : 9zcs6dkn@bhban.com
-division : dz3
-telephone : 010-9467-5593
-sex : male

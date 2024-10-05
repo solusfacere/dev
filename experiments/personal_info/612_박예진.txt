@@ -1,6 +1,0 @@
-name : ¹Ú¿¹Áø
-age : 59
-e-mail : k09ipysk@bhban.com
-division : 8mb
-telephone : 010-7272-3719
-sex : female

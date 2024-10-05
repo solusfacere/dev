@@ -1,6 +1,0 @@
-name : Á¶µµÀº
-age : 39
-e-mail : hmyyz3u9@bhban.com
-division : 88z
-telephone : 010-4846-1583
-sex : male

@@ -1,6 +1,0 @@
-name : юсаЖаЬ
-age : 50
-e-mail : lkotzsc8@bhban.com
-division : 8ta
-telephone : 010-8893-3232
-sex : male

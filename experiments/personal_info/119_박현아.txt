@@ -1,6 +1,0 @@
-name : ¹ÚÇö¾Æ
-age : 52
-e-mail : h6z30rzd@bhban.com
-division : sa2
-telephone : 010-5314-3401
-sex : male

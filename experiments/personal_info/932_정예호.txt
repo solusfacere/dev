@@ -1,6 +1,0 @@
-name : Á¤¿¹È£
-age : 49
-e-mail : aqchpz9d@bhban.com
-division : 798
-telephone : 010-9147-4970
-sex : male

@@ -1,6 +1,0 @@
-name : ¿±«œ¡ÿ
-age : 32
-e-mail : hke8k9mi@bhban.com
-division : ez1
-telephone : 010-2345-8430
-sex : female

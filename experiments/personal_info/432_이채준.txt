@@ -1,6 +1,0 @@
-name : РЬУЄСи
-age : 40
-e-mail : s1842s32@bhban.com
-division : ybs
-telephone : 010-9742-1986
-sex : female

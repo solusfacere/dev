@@ -1,6 +1,0 @@
-name : √÷¿±¡ÿ
-age : 39
-e-mail : iteeeyni@bhban.com
-division : bfe
-telephone : 010-7580-3394
-sex : female

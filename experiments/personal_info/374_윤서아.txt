@@ -1,6 +1,0 @@
-name : À±¼­¾Æ
-age : 26
-e-mail : xz6xznm1@bhban.com
-division : 2g8
-telephone : 010-4036-2831
-sex : male

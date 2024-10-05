@@ -1,6 +1,0 @@
-name : ±èÁöÀ±
-age : 23
-e-mail : 3ztnt1yf@bhban.com
-division : ug1
-telephone : 010-1447-9044
-sex : male

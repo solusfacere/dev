@@ -1,6 +1,0 @@
-name : ÀÌÇö¾Æ
-age : 41
-e-mail : 63b5he55@bhban.com
-division : 7l0
-telephone : 010-4630-9700
-sex : female

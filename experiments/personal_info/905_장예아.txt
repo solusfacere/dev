@@ -1,6 +1,0 @@
-name : Àå¿¹¾Æ
-age : 54
-e-mail : 9npbtktz@bhban.com
-division : 7pe
-telephone : 010-5113-5206
-sex : female

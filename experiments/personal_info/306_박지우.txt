@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ì
-age : 24
-e-mail : keriifxc@bhban.com
-division : wo5
-telephone : 010-9373-2980
-sex : female

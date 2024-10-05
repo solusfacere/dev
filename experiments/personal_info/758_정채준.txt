@@ -1,6 +1,0 @@
-name : СЄУЄСи
-age : 25
-e-mail : 1wamg58o@bhban.com
-division : kz0
-telephone : 010-9823-3202
-sex : female

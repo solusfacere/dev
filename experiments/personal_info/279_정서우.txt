@@ -1,6 +1,0 @@
-name : Á¤¼­¿ì
-age : 40
-e-mail : b1nssw30@bhban.com
-division : fwx
-telephone : 010-7954-9590
-sex : male

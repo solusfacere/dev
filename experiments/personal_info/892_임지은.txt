@@ -1,6 +1,0 @@
-name : юсаЖю╨
-age : 32
-e-mail : 2drh0ler@bhban.com
-division : ewi
-telephone : 010-2055-5534
-sex : female

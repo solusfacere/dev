@@ -1,6 +1,0 @@
-name : юлажаЬ
-age : 67
-e-mail : qkywzzx1@bhban.com
-division : amg
-telephone : 010-5439-8884
-sex : female

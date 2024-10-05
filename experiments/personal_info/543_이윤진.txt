@@ -1,6 +1,0 @@
-name : ¿Ã¿±¡¯
-age : 39
-e-mail : scm16fzn@bhban.com
-division : knx
-telephone : 010-6674-2986
-sex : female

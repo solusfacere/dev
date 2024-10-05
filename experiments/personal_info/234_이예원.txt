@@ -1,6 +1,0 @@
-name : ÀÌ¿¹¿ø
-age : 51
-e-mail : 30rbz1k2@bhban.com
-division : 1c2
-telephone : 010-9516-8163
-sex : male

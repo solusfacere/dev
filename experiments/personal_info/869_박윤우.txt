@@ -1,6 +1,0 @@
-name : ¹ÚÀ±¿ì
-age : 61
-e-mail : 30dzypaw@bhban.com
-division : v90
-telephone : 010-3348-6528
-sex : female

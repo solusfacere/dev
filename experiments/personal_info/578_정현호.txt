@@ -1,6 +1,0 @@
-name : Á¤ÇöÈ£
-age : 53
-e-mail : 1wl7y8l9@bhban.com
-division : vtl
-telephone : 010-7338-3725
-sex : female

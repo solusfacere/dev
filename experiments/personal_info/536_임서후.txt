@@ -1,6 +1,0 @@
-name : ÀÓ¼­ÈÄ
-age : 56
-e-mail : yspn78pm@bhban.com
-division : ue4
-telephone : 010-9478-4242
-sex : female

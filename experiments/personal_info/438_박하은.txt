@@ -1,6 +1,0 @@
-name : ╧згою╨
-age : 31
-e-mail : fsdhialf@bhban.com
-division : feo
-telephone : 010-2277-5315
-sex : female

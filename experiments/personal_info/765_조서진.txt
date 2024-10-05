@@ -1,6 +1,0 @@
-name : Á¶¼­Áø
-age : 20
-e-mail : sah4glgm@bhban.com
-division : qer
-telephone : 010-5932-4349
-sex : male

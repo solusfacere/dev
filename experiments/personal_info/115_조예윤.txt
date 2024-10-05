@@ -1,6 +1,0 @@
-name : Á¶¿¹À±
-age : 48
-e-mail : u7ss4bbl@bhban.com
-division : h3k
-telephone : 010-3181-1602
-sex : female

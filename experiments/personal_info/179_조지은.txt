@@ -1,6 +1,0 @@
-name : Á¶ÁöÀº
-age : 59
-e-mail : 6yqbcv4m@bhban.com
-division : p1p
-telephone : 010-2316-5873
-sex : male

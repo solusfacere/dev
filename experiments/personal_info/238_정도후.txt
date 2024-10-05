@@ -1,6 +1,0 @@
-name : Á¤µµÈÄ
-age : 40
-e-mail : 9z22v27d@bhban.com
-division : ftv
-telephone : 010-6761-4645
-sex : male

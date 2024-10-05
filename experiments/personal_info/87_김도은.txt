@@ -1,6 +1,0 @@
-name : ±èµµÀº
-age : 40
-e-mail : 3nay0z3p@bhban.com
-division : clu
-telephone : 010-3364-3831
-sex : female

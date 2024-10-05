@@ -1,6 +1,0 @@
-name : ¹Úµµ¿ì
-age : 44
-e-mail : yszcbp3h@bhban.com
-division : zzk
-telephone : 010-9605-4109
-sex : male

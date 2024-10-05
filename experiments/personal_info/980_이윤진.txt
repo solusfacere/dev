@@ -1,6 +1,0 @@
-name : ¿Ã¿±¡¯
-age : 66
-e-mail : wp1itg3i@bhban.com
-division : 16x
-telephone : 010-3265-9471
-sex : female

@@ -1,6 +1,0 @@
-name : Á¤¼­À±
-age : 22
-e-mail : bdu36d0q@bhban.com
-division : 0wi
-telephone : 010-7605-1097
-sex : male

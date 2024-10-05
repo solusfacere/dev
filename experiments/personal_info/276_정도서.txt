@@ -1,6 +1,0 @@
-name : Á¤µµ¼­
-age : 37
-e-mail : 6dolm68a@bhban.com
-division : m0c
-telephone : 010-9914-7452
-sex : male

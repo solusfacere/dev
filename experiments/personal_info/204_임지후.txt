@@ -1,6 +1,0 @@
-name : ÀÓÁöÈÄ
-age : 44
-e-mail : flh5lr00@bhban.com
-division : x70
-telephone : 010-7202-2663
-sex : female

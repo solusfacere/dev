@@ -1,6 +1,0 @@
-name : Á¶Áö¾Æ
-age : 70
-e-mail : 90nk61fq@bhban.com
-division : lab
-telephone : 010-8819-6156
-sex : female

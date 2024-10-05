@@ -1,6 +1,0 @@
-name : ÀÌÇöÈ£
-age : 57
-e-mail : 4m6a25r7@bhban.com
-division : m37
-telephone : 010-9608-4764
-sex : female

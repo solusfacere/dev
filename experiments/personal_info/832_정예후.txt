@@ -1,6 +1,0 @@
-name : Á¤¿¹ÈÄ
-age : 25
-e-mail : eundfgbg@bhban.com
-division : fu5
-telephone : 010-2764-6050
-sex : female

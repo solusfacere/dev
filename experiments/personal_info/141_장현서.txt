@@ -1,6 +1,0 @@
-name : ÀåÇö¼­
-age : 59
-e-mail : 4tlnnmqm@bhban.com
-division : ceh
-telephone : 010-9870-1821
-sex : female

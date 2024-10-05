@@ -1,6 +1,0 @@
-name : À±¼­¿ø
-age : 23
-e-mail : 9o2rt9ly@bhban.com
-division : 562
-telephone : 010-2000-3370
-sex : female

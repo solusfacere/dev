@@ -1,6 +1,0 @@
-name : ¹Ú¹ÎÀº
-age : 35
-e-mail : n5a373uz@bhban.com
-division : 3m8
-telephone : 010-6363-5872
-sex : female

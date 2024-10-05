@@ -1,6 +1,0 @@
-name : ±è¹ÎÁø
-age : 21
-e-mail : 0hfdclnz@bhban.com
-division : 847
-telephone : 010-8615-5481
-sex : male

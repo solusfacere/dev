@@ -1,6 +1,0 @@
-name : ÀåÁö¿ì
-age : 52
-e-mail : lwd61vzm@bhban.com
-division : p49
-telephone : 010-7888-5512
-sex : male

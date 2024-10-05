@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤¾Æ
-age : 24
-e-mail : szmzxgwf@bhban.com
-division : syl
-telephone : 010-4902-2124
-sex : female

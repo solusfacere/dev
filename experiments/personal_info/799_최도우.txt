@@ -1,6 +1,0 @@
-name : ÃÖµµ¿ì
-age : 32
-e-mail : uzkxpfnm@bhban.com
-division : o23
-telephone : 010-5334-2940
-sex : male

@@ -1,6 +1,0 @@
-name : ¿Âµµ¡ÿ
-age : 22
-e-mail : 586cp0gf@bhban.com
-division : uk3
-telephone : 010-7131-2457
-sex : male

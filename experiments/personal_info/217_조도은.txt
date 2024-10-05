@@ -1,6 +1,0 @@
-name : Á¶µµÀº
-age : 61
-e-mail : dc9mo23x@bhban.com
-division : scq
-telephone : 010-7295-1049
-sex : male

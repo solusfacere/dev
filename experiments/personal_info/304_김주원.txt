@@ -1,6 +1,0 @@
-name : ╠Хаж©Ь
-age : 55
-e-mail : mg7ibrlh@bhban.com
-division : ava
-telephone : 010-4719-9271
-sex : male

@@ -1,6 +1,0 @@
-name : Àå¹Î¿¬
-age : 63
-e-mail : mn5a58g5@bhban.com
-division : u5l
-telephone : 010-6144-7209
-sex : female

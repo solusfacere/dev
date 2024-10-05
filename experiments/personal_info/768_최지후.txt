@@ -1,6 +1,0 @@
-name : ÃÖÁöÈÄ
-age : 50
-e-mail : hgu47z05@bhban.com
-division : 95z
-telephone : 010-4496-2952
-sex : female

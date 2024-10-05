@@ -1,6 +1,0 @@
-name : Á¶ÁöÀº
-age : 44
-e-mail : kmlcs77z@bhban.com
-division : sh4
-telephone : 010-1849-9488
-sex : female

@@ -1,6 +1,0 @@
-name : À±ÇöÈ£
-age : 30
-e-mail : qw6hcd1u@bhban.com
-division : hru
-telephone : 010-7084-6921
-sex : male

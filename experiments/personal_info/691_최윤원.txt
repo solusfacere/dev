@@ -1,6 +1,0 @@
-name : ÃÖÀ±¿ø
-age : 63
-e-mail : bhqzc6bn@bhban.com
-division : 5f8
-telephone : 010-2334-8614
-sex : male

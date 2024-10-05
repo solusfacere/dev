@@ -1,6 +1,0 @@
-name : À±µµÁø
-age : 25
-e-mail : cr38fpu2@bhban.com
-division : qw2
-telephone : 010-1345-9440
-sex : male

@@ -1,6 +1,0 @@
-name : ¹Ú¹Î¿ø
-age : 51
-e-mail : 3f46wa1z@bhban.com
-division : zt8
-telephone : 010-9428-2821
-sex : female

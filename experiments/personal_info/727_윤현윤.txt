@@ -1,6 +1,0 @@
-name : À±ÇöÀ±
-age : 50
-e-mail : nghc1fyz@bhban.com
-division : cns
-telephone : 010-4762-5830
-sex : female

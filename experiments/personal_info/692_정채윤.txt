@@ -1,6 +1,0 @@
-name : Á¤Ã¤À±
-age : 64
-e-mail : llt8hx53@bhban.com
-division : z8u
-telephone : 010-9783-2678
-sex : male

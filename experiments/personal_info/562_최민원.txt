@@ -1,6 +1,0 @@
-name : ÃÖ¹Î¿ø
-age : 33
-e-mail : wplfg8kl@bhban.com
-division : ckg
-telephone : 010-9059-4436
-sex : female

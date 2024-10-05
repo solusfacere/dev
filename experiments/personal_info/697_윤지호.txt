@@ -1,6 +1,0 @@
-name : À±ÁöÈ£
-age : 20
-e-mail : z1zzm7z5@bhban.com
-division : h17
-telephone : 010-9879-1256
-sex : male

@@ -1,6 +1,0 @@
-name : ¿Ã¡÷»£
-age : 30
-e-mail : f5z06igz@bhban.com
-division : vtf
-telephone : 010-6312-8557
-sex : male

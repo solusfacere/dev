@@ -1,6 +1,0 @@
-name : ¿Â¿±¿±
-age : 21
-e-mail : waevnrk1@bhban.com
-division : 8ts
-telephone : 010-3767-2735
-sex : male

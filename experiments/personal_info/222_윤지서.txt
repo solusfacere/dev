@@ -1,6 +1,0 @@
-name : À±Áö¼­
-age : 66
-e-mail : 3707adoz@bhban.com
-division : b2d
-telephone : 010-3187-8177
-sex : female

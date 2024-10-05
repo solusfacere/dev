@@ -1,6 +1,0 @@
-name : ±è¹Î¿ø
-age : 57
-e-mail : s7f0ngqu@bhban.com
-division : cw6
-telephone : 010-7513-3480
-sex : female

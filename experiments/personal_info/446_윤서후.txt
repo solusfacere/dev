@@ -1,6 +1,0 @@
-name : À±¼­ÈÄ
-age : 40
-e-mail : ulq7ogmz@bhban.com
-division : olx
-telephone : 010-7389-9107
-sex : female

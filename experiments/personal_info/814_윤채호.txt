@@ -1,6 +1,0 @@
-name : À±Ã¤È£
-age : 28
-e-mail : zz5bwct9@bhban.com
-division : t02
-telephone : 010-6545-7073
-sex : male

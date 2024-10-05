@@ -1,6 +1,0 @@
-name : ÃÖÇöÈÄ
-age : 41
-e-mail : sxmwt0qc@bhban.com
-division : pch
-telephone : 010-8064-2844
-sex : male

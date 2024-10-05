@@ -1,6 +1,0 @@
-name : юлаж©Ь
-age : 55
-e-mail : zv4hqfhu@bhban.com
-division : gpm
-telephone : 010-7364-1870
-sex : male

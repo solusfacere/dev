@@ -1,6 +1,0 @@
-name : ¹ÚÁöÈ£
-age : 46
-e-mail : 5zwcit37@bhban.com
-division : wz8
-telephone : 010-6425-1359
-sex : female

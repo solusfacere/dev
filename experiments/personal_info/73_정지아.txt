@@ -1,6 +1,0 @@
-name : Á¤Áö¾Æ
-age : 56
-e-mail : br7o7t1u@bhban.com
-division : vxl
-telephone : 010-6883-1592
-sex : male

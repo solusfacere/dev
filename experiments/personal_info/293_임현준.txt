@@ -1,6 +1,0 @@
-name : ÀÓÇöÁØ
-age : 44
-e-mail : 2iisg0a3@bhban.com
-division : z7f
-telephone : 010-6308-6030
-sex : female

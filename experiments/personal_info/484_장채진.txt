@@ -1,6 +1,0 @@
-name : ÀåÃ¤Áø
-age : 36
-e-mail : 3neoqkli@bhban.com
-division : lr1
-telephone : 010-4561-6228
-sex : male

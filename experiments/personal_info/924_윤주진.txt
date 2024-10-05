@@ -1,6 +1,0 @@
-name : ю╠ажаЬ
-age : 40
-e-mail : yz4i3zpz@bhban.com
-division : a1i
-telephone : 010-9076-9263
-sex : male

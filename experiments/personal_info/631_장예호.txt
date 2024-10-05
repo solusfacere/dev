@@ -1,6 +1,0 @@
-name : �忹ȣ
-age : 52
-e-mail : 557lksct@bhban.com
-division : twg
-telephone : 010-9099-4633
-sex : female

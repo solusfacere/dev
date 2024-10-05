@@ -1,6 +1,0 @@
-name : ±Ë¿±æ∆
-age : 41
-e-mail : xoz8zkza@bhban.com
-division : 2ry
-telephone : 010-2830-9282
-sex : female

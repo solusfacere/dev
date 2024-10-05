@@ -1,6 +1,0 @@
-name : ¹ÚÀ±¼­
-age : 55
-e-mail : cmkix18o@bhban.com
-division : dvt
-telephone : 010-9151-6764
-sex : female

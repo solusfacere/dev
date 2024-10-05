@@ -1,6 +1,0 @@
-name : ÃÖµµ¿ø
-age : 30
-e-mail : 93rbn9xr@bhban.com
-division : 896
-telephone : 010-3387-7364
-sex : female

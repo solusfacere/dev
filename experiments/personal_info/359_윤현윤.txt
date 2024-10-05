@@ -1,6 +1,0 @@
-name : À±ÇöÀ±
-age : 31
-e-mail : wwc0lybp@bhban.com
-division : ses
-telephone : 010-9159-4133
-sex : male

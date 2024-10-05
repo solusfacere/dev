@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤¾Æ
-age : 61
-e-mail : hkwop2k0@bhban.com
-division : ql1
-telephone : 010-9947-5745
-sex : male

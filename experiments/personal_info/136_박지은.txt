@@ -1,6 +1,0 @@
-name : ¹ÚÁöÀº
-age : 67
-e-mail : 4o5d2p0e@bhban.com
-division : wiq
-telephone : 010-7673-8306
-sex : male

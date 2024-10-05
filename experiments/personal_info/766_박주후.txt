@@ -1,6 +1,0 @@
-name : ╧зажхд
-age : 40
-e-mail : r44rywo3@bhban.com
-division : 7dz
-telephone : 010-5069-8609
-sex : male

@@ -1,6 +1,0 @@
-name : ¹ÚÇöÈÄ
-age : 22
-e-mail : 5z8yyzkv@bhban.com
-division : z68
-telephone : 010-5178-7014
-sex : female

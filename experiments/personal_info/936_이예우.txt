@@ -1,6 +1,0 @@
-name : ÀÌ¿¹¿ì
-age : 56
-e-mail : w2cd4g8s@bhban.com
-division : t7t
-telephone : 010-8355-3906
-sex : female

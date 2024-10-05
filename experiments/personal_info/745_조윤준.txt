@@ -1,6 +1,0 @@
-name : ¡∂¿±¡ÿ
-age : 42
-e-mail : 51e6sy1u@bhban.com
-division : cnu
-telephone : 010-9074-8506
-sex : female

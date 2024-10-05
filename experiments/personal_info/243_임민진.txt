@@ -1,6 +1,0 @@
-name : юс╧наЬ
-age : 70
-e-mail : m61dcmmp@bhban.com
-division : ih8
-telephone : 010-3352-9771
-sex : male

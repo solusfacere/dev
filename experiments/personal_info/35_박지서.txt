@@ -1,6 +1,0 @@
-name : ¹ÚÁö¼­
-age : 63
-e-mail : vku1z92i@bhban.com
-division : kp5
-telephone : 010-2756-2244
-sex : male

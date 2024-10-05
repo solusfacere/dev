@@ -1,6 +1,0 @@
-name : À±¼­È£
-age : 23
-e-mail : 8n9fqkbf@bhban.com
-division : v8w
-telephone : 010-3299-3850
-sex : male

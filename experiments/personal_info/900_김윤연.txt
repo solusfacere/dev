@@ -1,6 +1,0 @@
-name : ±Ë¿±ø¨
-age : 58
-e-mail : bcaqldak@bhban.com
-division : 3pm
-telephone : 010-3371-7296
-sex : male

@@ -1,6 +1,0 @@
-name : Á¶¼­¿¬
-age : 54
-e-mail : tz48qvsd@bhban.com
-division : zm6
-telephone : 010-8344-2820
-sex : female

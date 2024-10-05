@@ -1,6 +1,0 @@
-name : À±Ã¤È£
-age : 54
-e-mail : 5h7z8e4b@bhban.com
-division : 2ku
-telephone : 010-6963-1897
-sex : male

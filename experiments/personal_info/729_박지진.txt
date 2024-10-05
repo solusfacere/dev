@@ -1,6 +1,0 @@
-name : ¹ÚÁöÁø
-age : 30
-e-mail : a72ti3k3@bhban.com
-division : ozg
-telephone : 010-1035-1803
-sex : female

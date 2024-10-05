@@ -1,6 +1,0 @@
-name : ¿”µµø¨
-age : 24
-e-mail : groabb05@bhban.com
-division : ks8
-telephone : 010-4401-4155
-sex : male

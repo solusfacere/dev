@@ -1,6 +1,0 @@
-name : ±Ë¿±æ∆
-age : 42
-e-mail : zxpy831p@bhban.com
-division : znk
-telephone : 010-7487-4878
-sex : female

@@ -1,6 +1,0 @@
-name : Á¶Ã¤ÈÄ
-age : 58
-e-mail : 8z2o1f3q@bhban.com
-division : 3cf
-telephone : 010-7070-9233
-sex : male

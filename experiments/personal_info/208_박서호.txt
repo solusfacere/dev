@@ -1,6 +1,0 @@
-name : ¹Ú¼­È£
-age : 69
-e-mail : 549stcss@bhban.com
-division : uxv
-telephone : 010-7858-8185
-sex : female

@@ -1,6 +1,0 @@
-name : Á¤Áö¿ì
-age : 67
-e-mail : 54g6kikf@bhban.com
-division : xrz
-telephone : 010-2358-7380
-sex : male

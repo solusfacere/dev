@@ -1,6 +1,0 @@
-name : Á¶À±¿ì
-age : 55
-e-mail : fi6vn3og@bhban.com
-division : gpb
-telephone : 010-2822-4937
-sex : male

@@ -1,6 +1,0 @@
-name : ฑ่ม๖มุ
-age : 47
-e-mail : hcbu567g@bhban.com
-division : yih
-telephone : 010-9447-3822
-sex : male

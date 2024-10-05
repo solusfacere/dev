@@ -1,6 +1,0 @@
-name : Á¤Áö¾Æ
-age : 66
-e-mail : vmvawmzv@bhban.com
-division : 80u
-telephone : 010-7826-8955
-sex : female

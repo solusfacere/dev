@@ -1,6 +1,0 @@
-name : À±ÇÏÁø
-age : 45
-e-mail : x1t6n6gh@bhban.com
-division : 7tt
-telephone : 010-3502-3619
-sex : male

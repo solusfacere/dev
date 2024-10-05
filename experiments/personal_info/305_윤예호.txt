@@ -1,6 +1,0 @@
-name : À±¿¹È£
-age : 24
-e-mail : 91pyv7pl@bhban.com
-division : d84
-telephone : 010-6230-8417
-sex : male

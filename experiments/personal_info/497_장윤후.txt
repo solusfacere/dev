@@ -1,6 +1,0 @@
-name : ¿Â¿±»ƒ
-age : 56
-e-mail : zboaaizg@bhban.com
-division : obo
-telephone : 010-3205-2947
-sex : male

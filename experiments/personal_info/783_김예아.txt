@@ -1,6 +1,0 @@
-name : ±è¿¹¾Æ
-age : 45
-e-mail : 4zb042oc@bhban.com
-division : wnr
-telephone : 010-7062-3593
-sex : female

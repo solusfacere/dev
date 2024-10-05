@@ -1,6 +1,0 @@
-name : РЬУЄСи
-age : 50
-e-mail : wquhizpm@bhban.com
-division : 8qp
-telephone : 010-7354-2568
-sex : male

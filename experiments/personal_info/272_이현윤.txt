@@ -1,6 +1,0 @@
-name : ÀÌÇöÀ±
-age : 44
-e-mail : ou2omlex@bhban.com
-division : 7ur
-telephone : 010-9828-7846
-sex : female

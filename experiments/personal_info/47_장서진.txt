@@ -1,6 +1,0 @@
-name : Àå¼­Áø
-age : 53
-e-mail : 7xer7bat@bhban.com
-division : ea4
-telephone : 010-9892-4034
-sex : male

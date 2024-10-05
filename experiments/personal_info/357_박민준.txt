@@ -1,6 +1,0 @@
-name : นฺนฮมุ
-age : 23
-e-mail : 7bhof0rq@bhban.com
-division : gks
-telephone : 010-9824-6364
-sex : male

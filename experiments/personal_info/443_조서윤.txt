@@ -1,6 +1,0 @@
-name : Á¶¼­À±
-age : 69
-e-mail : 4rhg20zc@bhban.com
-division : 0sx
-telephone : 010-8597-6946
-sex : female

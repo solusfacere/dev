@@ -1,6 +1,0 @@
-name : Àå¿¹¾Æ
-age : 33
-e-mail : kf2xn2lz@bhban.com
-division : moi
-telephone : 010-3982-9810
-sex : male

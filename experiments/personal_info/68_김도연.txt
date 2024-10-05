@@ -1,6 +1,0 @@
-name : ±èµµ¿¬
-age : 24
-e-mail : 2sez6zoy@bhban.com
-division : 730
-telephone : 010-2135-2895
-sex : female

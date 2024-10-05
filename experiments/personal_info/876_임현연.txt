@@ -1,6 +1,0 @@
-name : ÀÓÇö¿¬
-age : 23
-e-mail : 7lro0fyd@bhban.com
-division : 08p
-telephone : 010-3546-1901
-sex : male

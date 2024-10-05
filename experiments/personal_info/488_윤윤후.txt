@@ -1,6 +1,0 @@
-name : À±À±ÈÄ
-age : 45
-e-mail : 82yqgpnx@bhban.com
-division : 371
-telephone : 010-8254-4376
-sex : male

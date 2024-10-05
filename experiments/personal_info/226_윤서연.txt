@@ -1,6 +1,0 @@
-name : À±¼­¿¬
-age : 33
-e-mail : gao8zkqc@bhban.com
-division : dxo
-telephone : 010-5850-3270
-sex : female

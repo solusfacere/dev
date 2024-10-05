@@ -1,6 +1,0 @@
-name : ¿±«œ¡ÿ
-age : 35
-e-mail : cqwiqfuk@bhban.com
-division : lgy
-telephone : 010-3770-3134
-sex : male

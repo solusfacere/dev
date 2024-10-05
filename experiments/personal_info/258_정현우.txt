@@ -1,6 +1,0 @@
-name : Á¤Çö¿ì
-age : 67
-e-mail : dzcwtz1h@bhban.com
-division : 5py
-telephone : 010-2860-8394
-sex : male

@@ -1,6 +1,0 @@
-name : ¹ÚÇÏ¿¬
-age : 38
-e-mail : s0eeokr4@bhban.com
-division : bfm
-telephone : 010-7492-3523
-sex : male

@@ -1,6 +1,0 @@
-name : À±¼­¿ì
-age : 27
-e-mail : qk1fvwfs@bhban.com
-division : ba8
-telephone : 010-8996-4125
-sex : female

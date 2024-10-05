@@ -1,6 +1,0 @@
-name : ÀåÁö¿ø
-age : 24
-e-mail : f8rknx03@bhban.com
-division : o3y
-telephone : 010-3070-8608
-sex : male

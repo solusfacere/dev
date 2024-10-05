@@ -1,6 +1,0 @@
-name : Àå¿¹¿¬
-age : 47
-e-mail : i236f4h8@bhban.com
-division : lif
-telephone : 010-3030-1050
-sex : female

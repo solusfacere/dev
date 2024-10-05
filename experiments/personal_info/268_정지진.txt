@@ -1,6 +1,0 @@
-name : Á¤ÁöÁø
-age : 28
-e-mail : wlwizbcr@bhban.com
-division : c2v
-telephone : 010-7881-6070
-sex : female

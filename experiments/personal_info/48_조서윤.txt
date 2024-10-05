@@ -1,6 +1,0 @@
-name : Á¶¼­À±
-age : 55
-e-mail : agez372i@bhban.com
-division : yex
-telephone : 010-2827-2810
-sex : male

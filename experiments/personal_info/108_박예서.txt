@@ -1,6 +1,0 @@
-name : ¹Ú¿¹¼­
-age : 28
-e-mail : 85dg2r8d@bhban.com
-division : 814
-telephone : 010-8768-4805
-sex : female

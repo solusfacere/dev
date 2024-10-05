@@ -1,6 +1,0 @@
-name : ¹ÚÁö¾Æ
-age : 61
-e-mail : u7q87dvs@bhban.com
-division : olu
-telephone : 010-3130-4361
-sex : male

@@ -1,6 +1,0 @@
-name : ¿Â¿±¡ÿ
-age : 36
-e-mail : n4c7lw5g@bhban.com
-division : lc3
-telephone : 010-9594-9622
-sex : male

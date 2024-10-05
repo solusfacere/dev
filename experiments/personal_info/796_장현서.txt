@@ -1,6 +1,0 @@
-name : ÀåÇö¼­
-age : 30
-e-mail : fccrp1za@bhban.com
-division : ceo
-telephone : 010-4020-7369
-sex : female

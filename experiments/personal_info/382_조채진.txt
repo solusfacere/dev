@@ -1,6 +1,0 @@
-name : Á¶Ã¤Áø
-age : 68
-e-mail : k9gzlmmy@bhban.com
-division : uyw
-telephone : 010-3529-2444
-sex : female

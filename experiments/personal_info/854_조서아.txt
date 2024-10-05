@@ -1,6 +1,0 @@
-name : Á¶¼­¾Æ
-age : 61
-e-mail : 114t68xi@bhban.com
-division : li2
-telephone : 010-7515-3832
-sex : male

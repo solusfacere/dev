@@ -1,6 +1,0 @@
-name : ÀÌµµ¿ø
-age : 25
-e-mail : 25kd7ebp@bhban.com
-division : tu0
-telephone : 010-7698-4249
-sex : male

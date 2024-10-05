@@ -1,6 +1,0 @@
-name : ±Ë¡÷¿±
-age : 33
-e-mail : 2ty6hgxz@bhban.com
-division : rpm
-telephone : 010-4880-7634
-sex : female

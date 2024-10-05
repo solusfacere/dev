@@ -1,6 +1,0 @@
-name : ±èÁöÁø
-age : 69
-e-mail : rsys7udz@bhban.com
-division : nbk
-telephone : 010-6130-9973
-sex : male

@@ -1,6 +1,0 @@
-name : Á¤Áö¿ì
-age : 32
-e-mail : klzdqe06@bhban.com
-division : 8eo
-telephone : 010-9784-2757
-sex : female

@@ -1,6 +1,0 @@
-name : юс╧наЬ
-age : 30
-e-mail : huhg0bs0@bhban.com
-division : nni
-telephone : 010-5067-3632
-sex : female

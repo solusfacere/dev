@@ -1,6 +1,0 @@
-name : Á¶¼­¿¬
-age : 30
-e-mail : 9my3rudr@bhban.com
-division : fky
-telephone : 010-3905-6789
-sex : female

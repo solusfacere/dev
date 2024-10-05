@@ -1,6 +1,0 @@
-name : ±è¿¹¿¬
-age : 45
-e-mail : upo712sg@bhban.com
-division : hfn
-telephone : 010-5783-6606
-sex : female

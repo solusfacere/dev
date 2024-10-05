@@ -1,6 +1,0 @@
-name : ÀÓµµÈÄ
-age : 55
-e-mail : ui2tq5ax@bhban.com
-division : msb
-telephone : 010-7613-6116
-sex : male

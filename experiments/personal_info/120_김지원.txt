@@ -1,6 +1,0 @@
-name : ±èÁö¿ø
-age : 36
-e-mail : x9ntu77n@bhban.com
-division : vqw
-telephone : 010-4043-7581
-sex : female

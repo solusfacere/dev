@@ -1,6 +1,0 @@
-name : ¿Âµµø¨
-age : 57
-e-mail : crstzffz@bhban.com
-division : 7fu
-telephone : 010-1291-2083
-sex : male

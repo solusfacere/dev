@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ì
-age : 31
-e-mail : zo5whv5z@bhban.com
-division : gk4
-telephone : 010-6982-4425
-sex : male

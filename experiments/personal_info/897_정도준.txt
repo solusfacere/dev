@@ -1,6 +1,0 @@
-name : ¡§µµ¡ÿ
-age : 55
-e-mail : nc7h53x5@bhban.com
-division : byu
-telephone : 010-6076-8811
-sex : male

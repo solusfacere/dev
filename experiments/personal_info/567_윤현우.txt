@@ -1,6 +1,0 @@
-name : À±Çö¿ì
-age : 48
-e-mail : zsy636e1@bhban.com
-division : zzq
-telephone : 010-2785-7811
-sex : male

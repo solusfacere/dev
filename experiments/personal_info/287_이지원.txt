@@ -1,6 +1,0 @@
-name : ÀÌÁö¿ø
-age : 70
-e-mail : 327cpl77@bhban.com
-division : h1g
-telephone : 010-8828-9234
-sex : female

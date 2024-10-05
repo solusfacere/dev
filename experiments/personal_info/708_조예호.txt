@@ -1,6 +1,0 @@
-name : Á¶¿¹È£
-age : 64
-e-mail : ydz14029@bhban.com
-division : hei
-telephone : 010-7251-1183
-sex : female

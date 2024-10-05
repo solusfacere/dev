@@ -1,6 +1,0 @@
-name : ¿±¡÷¡ÿ
-age : 56
-e-mail : 580lauzs@bhban.com
-division : zot
-telephone : 010-3528-8073
-sex : male

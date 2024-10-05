@@ -1,6 +1,0 @@
-name : ¿Ã¿±¡¯
-age : 40
-e-mail : 9llawrw3@bhban.com
-division : vig
-telephone : 010-2259-7563
-sex : female

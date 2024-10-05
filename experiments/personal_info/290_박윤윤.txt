@@ -1,6 +1,0 @@
-name : ¹ÚÀ±À±
-age : 69
-e-mail : 4323lusr@bhban.com
-division : 8ag
-telephone : 010-4063-2067
-sex : female

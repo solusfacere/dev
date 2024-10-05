@@ -1,6 +1,0 @@
-name : À±µµ¾Æ
-age : 46
-e-mail : leqe34s1@bhban.com
-division : fwg
-telephone : 010-7648-1662
-sex : male

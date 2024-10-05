@@ -1,6 +1,0 @@
-name : ¹ÚÇöÈÄ
-age : 37
-e-mail : fmr1ywlt@bhban.com
-division : 4kv
-telephone : 010-5117-2116
-sex : female

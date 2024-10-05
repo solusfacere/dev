@@ -1,6 +1,0 @@
-name : ฑ่ว๖มุ
-age : 34
-e-mail : wfspd298@bhban.com
-division : 4as
-telephone : 010-1003-9915
-sex : female

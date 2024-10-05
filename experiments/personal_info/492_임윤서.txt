@@ -1,6 +1,0 @@
-name : ¿”¿±º≠
-age : 62
-e-mail : ewezvigs@bhban.com
-division : kq6
-telephone : 010-3853-4548
-sex : female

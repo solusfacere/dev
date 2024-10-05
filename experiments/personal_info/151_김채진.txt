@@ -1,6 +1,0 @@
-name : ±èÃ¤Áø
-age : 49
-e-mail : 1d9fkyac@bhban.com
-division : rqb
-telephone : 010-9604-3127
-sex : male

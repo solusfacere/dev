@@ -1,6 +1,0 @@
-name : Á¶Áö¿¬
-age : 64
-e-mail : fv0vsrlr@bhban.com
-division : rpm
-telephone : 010-3524-3077
-sex : male

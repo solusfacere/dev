@@ -1,6 +1,0 @@
-name : ±Ë¡÷¿∫
-age : 36
-e-mail : khus4lg1@bhban.com
-division : i52
-telephone : 010-5802-7223
-sex : female

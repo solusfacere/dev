@@ -1,6 +1,0 @@
-name : ÀÓÇö¼­
-age : 63
-e-mail : vopzfv8v@bhban.com
-division : 4lt
-telephone : 010-2004-4762
-sex : female

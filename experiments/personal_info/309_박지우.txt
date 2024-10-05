@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ì
-age : 59
-e-mail : hgre58qq@bhban.com
-division : yv5
-telephone : 010-5269-3341
-sex : female

@@ -1,6 +1,0 @@
-name : ÃÖ¼­¿ø
-age : 33
-e-mail : n41bk7lh@bhban.com
-division : 6kc
-telephone : 010-3647-5131
-sex : male

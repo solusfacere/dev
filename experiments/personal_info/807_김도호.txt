@@ -1,6 +1,0 @@
-name : �赵ȣ
-age : 26
-e-mail : b4ro7ts8@bhban.com
-division : 1t8
-telephone : 010-8626-7139
-sex : male

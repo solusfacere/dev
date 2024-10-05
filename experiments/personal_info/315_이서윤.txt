@@ -1,6 +1,0 @@
-name : ¿Ãº≠¿±
-age : 43
-e-mail : flk49x04@bhban.com
-division : 7ie
-telephone : 010-5424-7724
-sex : male

@@ -1,6 +1,0 @@
-name : ÀÌµµÁø
-age : 39
-e-mail : pf3vymtu@bhban.com
-division : xm1
-telephone : 010-2955-1602
-sex : male

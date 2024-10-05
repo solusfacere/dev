@@ -1,6 +1,0 @@
-name : ¹ÚÇöÁø
-age : 56
-e-mail : t8den3qk@bhban.com
-division : s6i
-telephone : 010-8003-2340
-sex : female

@@ -1,6 +1,0 @@
-name : ÀÓÇöÁø
-age : 40
-e-mail : n2zhk89u@bhban.com
-division : w7v
-telephone : 010-2377-9163
-sex : female

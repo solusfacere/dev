@@ -1,6 +1,0 @@
-name : Á¶¿¹È£
-age : 37
-e-mail : 1mzohpa2@bhban.com
-division : 8qa
-telephone : 010-9010-8144
-sex : female

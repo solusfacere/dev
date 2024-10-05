@@ -1,6 +1,0 @@
-name : ÃÖÁö¿ì
-age : 30
-e-mail : 0eibswcl@bhban.com
-division : 9t1
-telephone : 010-4950-7832
-sex : male

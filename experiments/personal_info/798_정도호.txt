@@ -1,6 +1,0 @@
-name : Á¤µµÈ£
-age : 53
-e-mail : o29k5rb0@bhban.com
-division : 41t
-telephone : 010-1656-9477
-sex : male

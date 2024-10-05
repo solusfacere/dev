@@ -1,6 +1,0 @@
-name : ¹Úµµ¿¬
-age : 21
-e-mail : 17igrbmc@bhban.com
-division : zab
-telephone : 010-6071-5882
-sex : female

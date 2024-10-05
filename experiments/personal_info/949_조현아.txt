@@ -1,6 +1,0 @@
-name : Á¶Çö¾Æ
-age : 28
-e-mail : d9u8tmq6@bhban.com
-division : ssz
-telephone : 010-4472-8053
-sex : male

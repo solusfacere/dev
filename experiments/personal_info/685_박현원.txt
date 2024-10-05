@@ -1,6 +1,0 @@
-name : ¹ÚÇö¿ø
-age : 49
-e-mail : deh8noz2@bhban.com
-division : zeb
-telephone : 010-8340-2773
-sex : female

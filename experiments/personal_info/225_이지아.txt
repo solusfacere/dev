@@ -1,6 +1,0 @@
-name : ÀÌÁö¾Æ
-age : 30
-e-mail : ziry3doa@bhban.com
-division : 92e
-telephone : 010-6816-2950
-sex : male

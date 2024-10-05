@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤¿ì
-age : 42
-e-mail : 1mcampc6@bhban.com
-division : lvt
-telephone : 010-9321-8212
-sex : female

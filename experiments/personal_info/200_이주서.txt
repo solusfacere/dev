@@ -1,6 +1,0 @@
-name : ¿Ã¡÷º≠
-age : 66
-e-mail : 766e75b8@bhban.com
-division : fx6
-telephone : 010-2631-6105
-sex : male

@@ -1,6 +1,0 @@
-name : Á¶µµÀ±
-age : 35
-e-mail : rduy1xor@bhban.com
-division : pyu
-telephone : 010-4361-7117
-sex : male

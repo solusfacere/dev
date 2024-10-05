@@ -1,6 +1,0 @@
-name : À±¹ÎÁø
-age : 31
-e-mail : uzdrkvo8@bhban.com
-division : ipy
-telephone : 010-3651-1165
-sex : male

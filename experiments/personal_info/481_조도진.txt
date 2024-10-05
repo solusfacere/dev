@@ -1,6 +1,0 @@
-name : Á¶µµÁø
-age : 62
-e-mail : 6w8zbw20@bhban.com
-division : t6y
-telephone : 010-2775-6657
-sex : female

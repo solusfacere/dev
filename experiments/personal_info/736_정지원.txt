@@ -1,6 +1,0 @@
-name : Á¤Áö¿ø
-age : 60
-e-mail : nfwyy51x@bhban.com
-division : h4z
-telephone : 010-2726-8228
-sex : female

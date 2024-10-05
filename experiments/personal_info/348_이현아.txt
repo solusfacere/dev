@@ -1,6 +1,0 @@
-name : ÀÌÇö¾Æ
-age : 34
-e-mail : si8b5lz5@bhban.com
-division : wpk
-telephone : 010-6649-7035
-sex : male

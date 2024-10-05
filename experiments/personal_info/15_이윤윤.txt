@@ -1,6 +1,0 @@
-name : ¿Ã¿±¿±
-age : 53
-e-mail : 6rx75421@bhban.com
-division : 9ht
-telephone : 010-3430-4134
-sex : female

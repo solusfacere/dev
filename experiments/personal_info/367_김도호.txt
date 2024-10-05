@@ -1,6 +1,0 @@
-name : �赵ȣ
-age : 43
-e-mail : q3wmwd05@bhban.com
-division : fpm
-telephone : 010-4015-1161
-sex : female

@@ -1,6 +1,0 @@
-name : ¹ÚÇöÁø
-age : 41
-e-mail : 7skmsr85@bhban.com
-division : wn8
-telephone : 010-9759-7808
-sex : female

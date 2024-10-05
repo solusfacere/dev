@@ -1,6 +1,0 @@
-name : Á¶µµÈÄ
-age : 20
-e-mail : kyiksohz@bhban.com
-division : gac
-telephone : 010-6684-7555
-sex : male

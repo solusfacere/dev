@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿ø
-age : 27
-e-mail : oh7mgq1k@bhban.com
-division : 4hf
-telephone : 010-4427-8221
-sex : female

@@ -1,6 +1,0 @@
-name : ¿Ã¡÷¡ÿ
-age : 49
-e-mail : dz7zs6pz@bhban.com
-division : cev
-telephone : 010-1747-7013
-sex : male

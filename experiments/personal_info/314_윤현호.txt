@@ -1,6 +1,0 @@
-name : À±ÇöÈ£
-age : 33
-e-mail : 710tmmsn@bhban.com
-division : 5bf
-telephone : 010-8397-1868
-sex : female

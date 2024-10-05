@@ -1,6 +1,0 @@
-name : ±èµµ¿¬
-age : 20
-e-mail : rcq453i3@bhban.com
-division : 6n8
-telephone : 010-8711-6799
-sex : male

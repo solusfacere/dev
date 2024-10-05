@@ -1,6 +1,0 @@
-name : Á¤Áö¾Æ
-age : 34
-e-mail : syuawmzg@bhban.com
-division : oz7
-telephone : 010-6138-3243
-sex : male

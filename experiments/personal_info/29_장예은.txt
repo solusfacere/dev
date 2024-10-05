@@ -1,6 +1,0 @@
-name : Àå¿¹Àº
-age : 40
-e-mail : 4lhodl87@bhban.com
-division : 609
-telephone : 010-7017-9576
-sex : male

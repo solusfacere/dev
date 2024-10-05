@@ -1,6 +1,0 @@
-name : юсю╠ю╨
-age : 30
-e-mail : lmbut57b@bhban.com
-division : dbx
-telephone : 010-1244-2136
-sex : male

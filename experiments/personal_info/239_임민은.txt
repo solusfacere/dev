@@ -1,6 +1,0 @@
-name : юс╧ню╨
-age : 24
-e-mail : fo8ar3d2@bhban.com
-division : yxz
-telephone : 010-6318-4516
-sex : female

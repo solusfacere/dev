@@ -1,6 +1,0 @@
-name : Á¶ÁöÈ£
-age : 50
-e-mail : et8w0no6@bhban.com
-division : 03e
-telephone : 010-1570-6879
-sex : female

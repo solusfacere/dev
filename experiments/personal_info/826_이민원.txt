@@ -1,6 +1,0 @@
-name : ÀÌ¹Î¿ø
-age : 48
-e-mail : my0ifyxh@bhban.com
-division : 5k1
-telephone : 010-3897-2331
-sex : female

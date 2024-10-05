@@ -1,6 +1,0 @@
-name : юсю╠хё
-age : 70
-e-mail : arncpizn@bhban.com
-division : 1sz
-telephone : 010-7570-2406
-sex : female

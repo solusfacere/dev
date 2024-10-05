@@ -1,6 +1,0 @@
-name : ÀÌ¹ÎÁø
-age : 68
-e-mail : q7d7hlku@bhban.com
-division : nt0
-telephone : 010-7516-6174
-sex : female

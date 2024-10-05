@@ -1,6 +1,0 @@
-name : Á¶ÁöÀ±
-age : 49
-e-mail : v2pq2d0o@bhban.com
-division : 0gx
-telephone : 010-7497-5628
-sex : female

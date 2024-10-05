@@ -1,6 +1,0 @@
-name : ±è¹ÎÈÄ
-age : 66
-e-mail : li8mih30@bhban.com
-division : ad9
-telephone : 010-9860-3924
-sex : male

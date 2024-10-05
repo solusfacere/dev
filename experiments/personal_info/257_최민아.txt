@@ -1,6 +1,0 @@
-name : ÃÖ¹Î¾Æ
-age : 68
-e-mail : z2uppp06@bhban.com
-division : oxe
-telephone : 010-8228-1541
-sex : male

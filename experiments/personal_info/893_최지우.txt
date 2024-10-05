@@ -1,6 +1,0 @@
-name : ÃÖÁö¿ì
-age : 70
-e-mail : ccnpqr5w@bhban.com
-division : hkb
-telephone : 010-3057-2259
-sex : female

@@ -1,6 +1,0 @@
-name : ±èÁöÈÄ
-age : 42
-e-mail : a1vv4zst@bhban.com
-division : z1a
-telephone : 010-6642-7079
-sex : female

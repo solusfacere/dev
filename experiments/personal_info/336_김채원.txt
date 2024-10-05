@@ -1,6 +1,0 @@
-name : ±èÃ¤¿ø
-age : 32
-e-mail : 2c6dpzpa@bhban.com
-division : 2xs
-telephone : 010-7298-9179
-sex : male

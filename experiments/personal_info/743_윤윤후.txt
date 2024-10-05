@@ -1,6 +1,0 @@
-name : À±À±ÈÄ
-age : 53
-e-mail : ekrkl8x9@bhban.com
-division : pmr
-telephone : 010-2997-1438
-sex : male

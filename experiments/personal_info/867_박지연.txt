@@ -1,6 +1,0 @@
-name : ¹ÚÁö¿¬
-age : 56
-e-mail : pks91z2s@bhban.com
-division : 3xw
-telephone : 010-4835-8048
-sex : male

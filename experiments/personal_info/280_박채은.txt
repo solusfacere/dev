@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤Àº
-age : 49
-e-mail : sdzczszr@bhban.com
-division : qgs
-telephone : 010-8363-3063
-sex : male

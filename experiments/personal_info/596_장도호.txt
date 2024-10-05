@@ -1,6 +1,0 @@
-name : �嵵ȣ
-age : 66
-e-mail : 3czcfsln@bhban.com
-division : z6p
-telephone : 010-9069-1381
-sex : female

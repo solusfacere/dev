@@ -1,6 +1,0 @@
-name : ÀÌÁöÈÄ
-age : 50
-e-mail : dec7c7zi@bhban.com
-division : zho
-telephone : 010-2961-2393
-sex : female

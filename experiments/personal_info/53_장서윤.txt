@@ -1,6 +1,0 @@
-name : ¿Âº≠¿±
-age : 55
-e-mail : ihz1ztwu@bhban.com
-division : kv1
-telephone : 010-5625-2846
-sex : female

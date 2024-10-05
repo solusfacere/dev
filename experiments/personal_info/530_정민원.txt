@@ -1,6 +1,0 @@
-name : Á¤¹Î¿ø
-age : 68
-e-mail : 7ef3h3ql@bhban.com
-division : 7ot
-telephone : 010-4557-8166
-sex : male

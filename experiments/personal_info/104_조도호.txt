@@ -1,6 +1,0 @@
-name : Á¶µµÈ£
-age : 28
-e-mail : 74do0kvz@bhban.com
-division : sal
-telephone : 010-4597-4513
-sex : female

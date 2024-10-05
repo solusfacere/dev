@@ -1,6 +1,0 @@
-name : À±¼­¿¬
-age : 65
-e-mail : rx3l2ok7@bhban.com
-division : r7q
-telephone : 010-7405-2564
-sex : male

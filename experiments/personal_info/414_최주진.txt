@@ -1,6 +1,0 @@
-name : цжажаЬ
-age : 63
-e-mail : y3rnzoly@bhban.com
-division : srx
-telephone : 010-8531-8504
-sex : male

@@ -1,6 +1,0 @@
-name : Á¤À±¾Æ
-age : 63
-e-mail : az2yse3f@bhban.com
-division : bxk
-telephone : 010-2717-1543
-sex : male

@@ -1,6 +1,0 @@
-name : ÀÌÇöÈ£
-age : 47
-e-mail : bvn50x1z@bhban.com
-division : 9no
-telephone : 010-6127-4886
-sex : female

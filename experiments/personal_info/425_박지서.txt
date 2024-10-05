@@ -1,6 +1,0 @@
-name : ¹ÚÁö¼­
-age : 52
-e-mail : zwudiree@bhban.com
-division : wbr
-telephone : 010-2783-1983
-sex : female

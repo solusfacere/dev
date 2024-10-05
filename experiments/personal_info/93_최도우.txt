@@ -1,6 +1,0 @@
-name : ÃÖµµ¿ì
-age : 64
-e-mail : tqmmqya1@bhban.com
-division : m6i
-telephone : 010-4675-8984
-sex : male

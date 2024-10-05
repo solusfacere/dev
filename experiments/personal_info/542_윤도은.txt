@@ -1,6 +1,0 @@
-name : À±µµÀº
-age : 45
-e-mail : qdkyc8vt@bhban.com
-division : qxc
-telephone : 010-5921-3779
-sex : male

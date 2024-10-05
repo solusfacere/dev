@@ -1,6 +1,0 @@
-name : Á¤¼­¿¬
-age : 58
-e-mail : w85kxh1s@bhban.com
-division : rq5
-telephone : 010-4444-8530
-sex : male

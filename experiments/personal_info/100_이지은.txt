@@ -1,6 +1,0 @@
-name : ¿Ã¡ˆ¿∫
-age : 37
-e-mail : 3b1zudzr@bhban.com
-division : dzt
-telephone : 010-1900-8011
-sex : female

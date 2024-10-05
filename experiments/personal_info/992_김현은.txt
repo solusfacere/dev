@@ -1,6 +1,0 @@
-name : ±èÇöÀº
-age : 21
-e-mail : kk8auxvw@bhban.com
-division : pkh
-telephone : 010-2304-7171
-sex : male

@@ -1,6 +1,0 @@
-name : Á¤Áö¿ø
-age : 40
-e-mail : 6ubdp9yq@bhban.com
-division : spm
-telephone : 010-6790-8243
-sex : female

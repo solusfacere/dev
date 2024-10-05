@@ -1,6 +1,0 @@
-name : À±¹Î¾Æ
-age : 62
-e-mail : t4l9aboe@bhban.com
-division : nzb
-telephone : 010-9582-2201
-sex : female

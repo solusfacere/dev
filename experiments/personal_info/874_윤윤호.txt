@@ -1,6 +1,0 @@
-name : À±À±È£
-age : 67
-e-mail : zg3yxrrd@bhban.com
-division : q1n
-telephone : 010-1423-5865
-sex : female

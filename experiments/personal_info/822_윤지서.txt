@@ -1,6 +1,0 @@
-name : À±Áö¼­
-age : 22
-e-mail : ho9unoer@bhban.com
-division : ggd
-telephone : 010-7138-3576
-sex : male

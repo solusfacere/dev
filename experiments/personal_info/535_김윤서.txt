@@ -1,6 +1,0 @@
-name : ±Ë¿±º≠
-age : 21
-e-mail : t27l3wsn@bhban.com
-division : 5hg
-telephone : 010-1255-8555
-sex : female

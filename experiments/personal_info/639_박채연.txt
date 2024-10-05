@@ -1,6 +1,0 @@
-name : ¹ÚÃ¤¿¬
-age : 23
-e-mail : 29rmczrz@bhban.com
-division : 0f3
-telephone : 010-7232-7476
-sex : male

@@ -1,6 +1,0 @@
-name : ±Ë¿±»£
-age : 45
-e-mail : iz60l6mp@bhban.com
-division : g0z
-telephone : 010-8662-7116
-sex : male

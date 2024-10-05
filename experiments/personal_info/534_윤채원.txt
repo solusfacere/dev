@@ -1,6 +1,0 @@
-name : À±Ã¤¿ø
-age : 36
-e-mail : oz5wah3g@bhban.com
-division : gvi
-telephone : 010-3630-1298
-sex : female

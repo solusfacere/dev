@@ -1,6 +1,0 @@
-name : а╤го©Л
-age : 40
-e-mail : uuoskrxi@bhban.com
-division : d19
-telephone : 010-8912-7811
-sex : male

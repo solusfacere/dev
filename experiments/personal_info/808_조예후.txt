@@ -1,6 +1,0 @@
-name : Á¶¿¹ÈÄ
-age : 46
-e-mail : 6pder5kl@bhban.com
-division : mpa
-telephone : 010-8656-4038
-sex : female

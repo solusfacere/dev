@@ -1,6 +1,0 @@
-name : ÀÌÇö¿¬
-age : 67
-e-mail : 4kpogver@bhban.com
-division : bh5
-telephone : 010-5816-1798
-sex : female

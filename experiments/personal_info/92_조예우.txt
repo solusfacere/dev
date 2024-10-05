@@ -1,6 +1,0 @@
-name : Á¶¿¹¿ì
-age : 49
-e-mail : 537kgiyx@bhban.com
-division : qwe
-telephone : 010-9410-5400
-sex : male

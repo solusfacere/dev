@@ -1,6 +1,0 @@
-name : ÀÌ¿¹¿¬
-age : 25
-e-mail : 0klu0bk5@bhban.com
-division : dli
-telephone : 010-4958-2717
-sex : female

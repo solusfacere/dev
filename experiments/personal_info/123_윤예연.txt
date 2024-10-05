@@ -1,6 +1,0 @@
-name : À±¿¹¿¬
-age : 64
-e-mail : 6wkz6cz9@bhban.com
-division : vfv
-telephone : 010-7280-8967
-sex : male

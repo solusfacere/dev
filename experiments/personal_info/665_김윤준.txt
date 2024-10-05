@@ -1,6 +1,0 @@
-name : ±Ë¿±¡ÿ
-age : 39
-e-mail : kzr3xzd7@bhban.com
-division : scu
-telephone : 010-9233-9959
-sex : female

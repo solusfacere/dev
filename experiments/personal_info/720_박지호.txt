@@ -1,6 +1,0 @@
-name : ¹ÚÁöÈ£
-age : 64
-e-mail : 0dsl8em1@bhban.com
-division : xi0
-telephone : 010-6056-6378
-sex : male

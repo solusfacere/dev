@@ -1,6 +1,0 @@
-name : °­¼­¿ø
-age : 28
-e-mail : ysmc6rud@bhban.com
-division : teu
-telephone : 010-9495-4132
-sex : male

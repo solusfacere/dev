@@ -1,6 +1,0 @@
-name : ±èÀ±¿ì
-age : 59
-e-mail : 5q0i3n85@bhban.com
-division : zl7
-telephone : 010-8054-4080
-sex : male

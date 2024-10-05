@@ -1,6 +1,0 @@
-name : Á¤Áö¿ì
-age : 36
-e-mail : 7rr6z2vy@bhban.com
-division : g6u
-telephone : 010-5379-6728
-sex : male

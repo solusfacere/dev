@@ -1,6 +1,0 @@
-name : ±è¿¹¾Æ
-age : 68
-e-mail : lpsw7ywa@bhban.com
-division : qbd
-telephone : 010-1350-6940
-sex : male

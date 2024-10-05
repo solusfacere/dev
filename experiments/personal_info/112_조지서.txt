@@ -1,6 +1,0 @@
-name : Á¶Áö¼­
-age : 62
-e-mail : ao6kgfx8@bhban.com
-division : 4kt
-telephone : 010-2851-1523
-sex : male

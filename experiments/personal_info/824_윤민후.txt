@@ -1,6 +1,0 @@
-name : À±¹ÎÈÄ
-age : 37
-e-mail : wy53folg@bhban.com
-division : kf1
-telephone : 010-6057-7976
-sex : male

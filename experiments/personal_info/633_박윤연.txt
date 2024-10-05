@@ -1,6 +1,0 @@
-name : ¹ÚÀ±¿¬
-age : 27
-e-mail : hoq6bdul@bhban.com
-division : ewt
-telephone : 010-3289-6547
-sex : female

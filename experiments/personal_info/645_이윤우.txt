@@ -1,6 +1,0 @@
-name : ¿Ã¿±øÏ
-age : 34
-e-mail : n1bhc1f7@bhban.com
-division : bsr
-telephone : 010-2147-8730
-sex : male

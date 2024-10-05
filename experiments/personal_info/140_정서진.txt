@@ -1,6 +1,0 @@
-name : Á¤¼­Áø
-age : 38
-e-mail : yl03o3o0@bhban.com
-division : 34l
-telephone : 010-2056-9264
-sex : female

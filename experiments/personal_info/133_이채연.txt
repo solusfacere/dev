@@ -1,6 +1,0 @@
-name : ¿Ã√§ø¨
-age : 34
-e-mail : 61ienlsr@bhban.com
-division : 599
-telephone : 010-7601-8394
-sex : male

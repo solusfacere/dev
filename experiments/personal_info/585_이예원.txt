@@ -1,6 +1,0 @@
-name : ÀÌ¿¹¿ø
-age : 38
-e-mail : eiy6s5yf@bhban.com
-division : 2rv
-telephone : 010-1882-4348
-sex : female

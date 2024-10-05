@@ -1,6 +1,0 @@
-name : ÃÖÁöÈÄ
-age : 46
-e-mail : h85l8l4z@bhban.com
-division : f66
-telephone : 010-6009-2231
-sex : male

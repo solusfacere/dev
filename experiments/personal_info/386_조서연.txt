@@ -1,6 +1,0 @@
-name : Á¶¼­¿¬
-age : 53
-e-mail : zlhchh5q@bhban.com
-division : yt9
-telephone : 010-6967-4151
-sex : female

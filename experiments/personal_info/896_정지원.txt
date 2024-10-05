@@ -1,6 +1,0 @@
-name : Á¤Áö¿ø
-age : 44
-e-mail : 32nmekbt@bhban.com
-division : fr3
-telephone : 010-5277-5351
-sex : male

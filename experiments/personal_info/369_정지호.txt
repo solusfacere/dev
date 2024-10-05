@@ -1,6 +1,0 @@
-name : Á¤ÁöÈ£
-age : 28
-e-mail : hzqg16y2@bhban.com
-division : zud
-telephone : 010-3667-4627
-sex : female

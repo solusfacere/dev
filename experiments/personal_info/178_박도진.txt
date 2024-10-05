@@ -1,6 +1,0 @@
-name : ¹ÚµµÁø
-age : 54
-e-mail : vkalz5k1@bhban.com
-division : fqn
-telephone : 010-1055-8639
-sex : male

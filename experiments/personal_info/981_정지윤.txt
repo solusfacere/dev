@@ -1,6 +1,0 @@
-name : Á¤ÁöÀ±
-age : 23
-e-mail : xh2buz0v@bhban.com
-division : u4z
-telephone : 010-1591-1807
-sex : female

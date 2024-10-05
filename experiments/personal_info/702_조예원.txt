@@ -1,6 +1,0 @@
-name : Á¶¿¹¿ø
-age : 64
-e-mail : zqs63oxb@bhban.com
-division : nys
-telephone : 010-1870-9375
-sex : female

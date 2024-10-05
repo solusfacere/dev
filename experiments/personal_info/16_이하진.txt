@@ -1,6 +1,0 @@
-name : юлгоаЬ
-age : 30
-e-mail : 6vmg7fgu@bhban.com
-division : 0rb
-telephone : 010-1406-3157
-sex : male

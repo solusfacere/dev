@@ -1,6 +1,0 @@
-name : Á¤ÁöÀº
-age : 28
-e-mail : 6v8mebll@bhban.com
-division : oxh
-telephone : 010-7835-3801
-sex : male

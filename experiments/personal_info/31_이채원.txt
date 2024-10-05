@@ -1,6 +1,0 @@
-name : ÀÌÃ¤¿ר
-age : 24
-e-mail : hgzcnccq@bhban.com
-division : xbh
-telephone : 010-9910-2231
-sex : female

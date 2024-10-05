@@ -1,6 +1,0 @@
-name : ¹ÚÁöÀ±
-age : 39
-e-mail : v487zo5b@bhban.com
-division : 281
-telephone : 010-4246-5992
-sex : female

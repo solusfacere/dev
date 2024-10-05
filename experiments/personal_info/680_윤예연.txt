@@ -1,6 +1,0 @@
-name : À±¿¹¿¬
-age : 35
-e-mail : 1vr0a07z@bhban.com
-division : 1f4
-telephone : 010-1955-4546
-sex : female

@@ -1,6 +1,0 @@
-name : ¹ÚÁöÈ£
-age : 64
-e-mail : dtwzwqi6@bhban.com
-division : s82
-telephone : 010-1145-9481
-sex : male

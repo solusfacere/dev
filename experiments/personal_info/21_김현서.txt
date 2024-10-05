@@ -1,6 +1,0 @@
-name : ±èÇö¼­
-age : 55
-e-mail : zzht2c9q@bhban.com
-division : i1o
-telephone : 010-4544-6342
-sex : male

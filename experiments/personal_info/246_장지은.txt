@@ -1,6 +1,0 @@
-name : ÀåÁöÀº
-age : 60
-e-mail : ku8p0ib8@bhban.com
-division : 1ta
-telephone : 010-5650-7222
-sex : female

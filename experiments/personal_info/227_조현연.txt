@@ -1,6 +1,0 @@
-name : Á¶Çö¿¬
-age : 66
-e-mail : yu9sefpt@bhban.com
-division : hzn
-telephone : 010-7247-6595
-sex : male

@@ -1,6 +1,0 @@
-name : ¿Ã¿±¿∫
-age : 20
-e-mail : hk1ixztc@bhban.com
-division : z9t
-telephone : 010-9179-1756
-sex : male

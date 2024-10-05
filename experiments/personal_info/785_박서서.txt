@@ -1,6 +1,0 @@
-name : ¹Ú¼­¼­
-age : 58
-e-mail : 5cgufxls@bhban.com
-division : iqd
-telephone : 010-5459-5177
-sex : female

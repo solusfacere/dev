@@ -1,6 +1,0 @@
-name : ÀÌµµ¿ì
-age : 30
-e-mail : 1iqlgxe1@bhban.com
-division : ly0
-telephone : 010-3278-4163
-sex : female

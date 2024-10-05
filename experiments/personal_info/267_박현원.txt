@@ -1,6 +1,0 @@
-name : ¹ÚÇö¿ø
-age : 57
-e-mail : z08496rq@bhban.com
-division : 4hm
-telephone : 010-1989-9208
-sex : female

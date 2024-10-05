@@ -1,6 +1,0 @@
-name : ÀÌÁöÀº
-age : 70
-e-mail : 67d2umrs@bhban.com
-division : ieu
-telephone : 010-1640-4069
-sex : male

@@ -1,6 +1,0 @@
-name : ¿ÃπŒ¡¯
-age : 54
-e-mail : birgn73b@bhban.com
-division : dbg
-telephone : 010-1185-3333
-sex : male

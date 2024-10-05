@@ -1,6 +1,0 @@
-name : Á¤ÁöÀº
-age : 29
-e-mail : 7miz1tgf@bhban.com
-division : 4bp
-telephone : 010-7229-1527
-sex : female

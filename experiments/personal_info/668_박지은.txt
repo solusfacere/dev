@@ -1,6 +1,0 @@
-name : ¹ÚÁöÀº
-age : 29
-e-mail : x1ky6x2g@bhban.com
-division : zzm
-telephone : 010-7114-5261
-sex : female

@@ -1,6 +1,0 @@
-name : ÃÖÁö¿ì
-age : 60
-e-mail : te9k1cdx@bhban.com
-division : vrc
-telephone : 010-3427-7356
-sex : female

@@ -1,6 +1,0 @@
-name : ¹Ú¿¹ÈÄ
-age : 41
-e-mail : oznyq1ch@bhban.com
-division : dze
-telephone : 010-2380-6133
-sex : male

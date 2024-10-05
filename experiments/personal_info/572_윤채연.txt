@@ -1,6 +1,0 @@
-name : À±Ã¤¿¬
-age : 49
-e-mail : fo5ndisu@bhban.com
-division : biq
-telephone : 010-8133-4776
-sex : female

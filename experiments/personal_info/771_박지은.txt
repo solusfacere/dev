@@ -1,6 +1,0 @@
-name : ¹ÚÁöÀº
-age : 46
-e-mail : 9ncyzf7o@bhban.com
-division : 73k
-telephone : 010-6846-6772
-sex : female

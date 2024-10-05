@@ -1,6 +1,0 @@
-name : ÃÖÇöÁø
-age : 38
-e-mail : tliz6lgz@bhban.com
-division : 68m
-telephone : 010-2014-2256
-sex : male

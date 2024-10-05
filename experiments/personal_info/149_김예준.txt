@@ -1,6 +1,0 @@
-name : ±è¿¹ÁØ
-age : 33
-e-mail : zb2cdlne@bhban.com
-division : swt
-telephone : 010-5361-9311
-sex : male
