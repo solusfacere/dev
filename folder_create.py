@@ -2,7 +2,7 @@ import os
 import shutil
 
 # 기본 폴더 경로 설정 (dev 폴더가 있는 경로로 변경)
-base_dir = "C:/dev/dev/"
+base_dir = "C:/dev"
 
 # 생성할 폴더 구조
 folder_structure = {
