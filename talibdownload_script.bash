@@ -16,8 +16,6 @@ pip install "C:\path_to_your_downloaded_whl_file\TA_Lib‑0.4.0‑cp311‑cp311�
 # 5. Python에서 talib 라이브러리 임포트 및 함수 출력 테스트
 python -c "import talib; print(talib.get_functions())"
 
-
-
 # !wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz
 # !tar -xzvf ta-lib-0.4.0-src.tar.gz
 # %cd ta-lib
