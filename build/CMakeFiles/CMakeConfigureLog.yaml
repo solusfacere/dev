@@ -1,0 +1,2124 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+      鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:14
+      
+      1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\3.30.4\\CompilerIdC\\CompilerIdC.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+      PrepareForBuild:
+        "Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+        "Debug\\CompilerIdC.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+      InitializeBuildStatus:
+        "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"Debug\\CompilerIdC.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+        "Debug\\CompilerIdC.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> C:\\dev\\build\\CMakeFiles\\3.30.4\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx86\\x64\\cl.exe
+      FinalizeBuildStatus:
+        "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+        "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+      "C:\\dev\\build\\CMakeFiles\\3.30.4\\CompilerIdC\\CompilerIdC.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+      
+      鍮뚮뱶?덉뒿?덈떎.
+          寃쎄퀬 0媛?
+          ?ㅻ쪟 0媛?
+      
+      寃쎄낵 ?쒓컙: 00:00:04.40
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/dev/build/CMakeFiles/3.30.4/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+      鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:20
+      
+      1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\3.30.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+      PrepareForBuild:
+        "Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+        "Debug\\CompilerIdCXX.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+      InitializeBuildStatus:
+        "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+        "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> C:\\dev\\build\\CMakeFiles\\3.30.4\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx86\\x64\\cl.exe
+      FinalizeBuildStatus:
+        "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+        "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+      "C:\\dev\\build\\CMakeFiles\\3.30.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+      
+      鍮뚮뱶?덉뒿?덈떎.
+          寃쎄퀬 0媛?
+          ?ㅻ쪟 0媛?
+      
+      寃쎄낵 ?쒓컙: 00:00:03.74
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/dev/build/CMakeFiles/3.30.4/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-z27mbg"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-z27mbg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-z27mbg'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3b39d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:25
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z27mbg\\cmTC_3b39d.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_3b39d.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z27mbg\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_3b39d.dir\\Debug\\cmTC_3b39d.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_3b39d.dir\\Debug\\cmTC_3b39d.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_3b39d.dir\\Debug\\cmTC_3b39d.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3b39d.dir\\Debug\\\\" /Fd"cmTC_3b39d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\ProgramData\\miniconda3\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3b39d.dir\\Debug\\\\" /Fd"cmTC_3b39d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\ProgramData\\miniconda3\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z27mbg\\Debug\\cmTC_3b39d.exe" /INCREMENTAL /ILK:"cmTC_3b39d.dir\\Debug\\cmTC_3b39d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-z27mbg/Debug/cmTC_3b39d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-z27mbg/Debug/cmTC_3b39d.lib" /MACHINE:X64  /machine:x64 cmTC_3b39d.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_3b39d.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z27mbg\\Debug\\cmTC_3b39d.exe
+        FinalizeBuildStatus:
+          "cmTC_3b39d.dir\\Debug\\cmTC_3b39d.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_3b39d.dir\\Debug\\cmTC_3b39d.tlog\\cmTC_3b39d.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-z27mbg\\cmTC_3b39d.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.30
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/HostX86/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      Running the C compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/HostX86/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.41.34123.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-33wvg2"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-33wvg2"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-33wvg2'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1ea89.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:31
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-33wvg2\\cmTC_1ea89.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_1ea89.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-33wvg2\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_1ea89.dir\\Debug\\cmTC_1ea89.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_1ea89.dir\\Debug\\cmTC_1ea89.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_1ea89.dir\\Debug\\cmTC_1ea89.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1ea89.dir\\Debug\\\\" /Fd"cmTC_1ea89.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\ProgramData\\miniconda3\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1ea89.dir\\Debug\\\\" /Fd"cmTC_1ea89.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\ProgramData\\miniconda3\\Lib\\site-packages\\cmake\\data\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-33wvg2\\Debug\\cmTC_1ea89.exe" /INCREMENTAL /ILK:"cmTC_1ea89.dir\\Debug\\cmTC_1ea89.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-33wvg2/Debug/cmTC_1ea89.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-33wvg2/Debug/cmTC_1ea89.lib" /MACHINE:X64  /machine:x64 cmTC_1ea89.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_1ea89.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-33wvg2\\Debug\\cmTC_1ea89.exe
+        FinalizeBuildStatus:
+          "cmTC_1ea89.dir\\Debug\\cmTC_1ea89.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_1ea89.dir\\Debug\\cmTC_1ea89.tlog\\cmTC_1ea89.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-33wvg2\\cmTC_1ea89.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.72
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/HostX86/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (PROJECT)"
+    message: |
+      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/HostX86/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.41.34123.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:19 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file float.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-3nstpu"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-3nstpu"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_FLOAT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-3nstpu'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_90577.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:36
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\cmTC_90577.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_90577.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_90577.dir\\Debug\\cmTC_90577.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_90577.dir\\Debug\\cmTC_90577.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_90577.dir\\Debug\\cmTC_90577.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90577.dir\\Debug\\\\" /Fd"cmTC_90577.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\HAVE_FLOAT_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90577.dir\\Debug\\\\" /Fd"cmTC_90577.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\HAVE_FLOAT_H.c"
+          HAVE_FLOAT_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\Debug\\cmTC_90577.exe" /INCREMENTAL /ILK:"cmTC_90577.dir\\Debug\\cmTC_90577.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-3nstpu/Debug/cmTC_90577.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-3nstpu/Debug/cmTC_90577.lib" /MACHINE:X64  /machine:x64 cmTC_90577.dir\\Debug\\HAVE_FLOAT_H.obj
+          cmTC_90577.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\Debug\\cmTC_90577.exe
+        FinalizeBuildStatus:
+          "cmTC_90577.dir\\Debug\\cmTC_90577.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_90577.dir\\Debug\\cmTC_90577.tlog\\cmTC_90577.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3nstpu\\cmTC_90577.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.85
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:20 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file inttypes.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hx4qav"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hx4qav"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_INTTYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hx4qav'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_6a137.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:42
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\cmTC_6a137.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_6a137.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_6a137.dir\\Debug\\cmTC_6a137.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_6a137.dir\\Debug\\cmTC_6a137.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_6a137.dir\\Debug\\cmTC_6a137.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6a137.dir\\Debug\\\\" /Fd"cmTC_6a137.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\HAVE_INTTYPES_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6a137.dir\\Debug\\\\" /Fd"cmTC_6a137.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\HAVE_INTTYPES_H.c"
+          HAVE_INTTYPES_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\Debug\\cmTC_6a137.exe" /INCREMENTAL /ILK:"cmTC_6a137.dir\\Debug\\cmTC_6a137.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hx4qav/Debug/cmTC_6a137.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hx4qav/Debug/cmTC_6a137.lib" /MACHINE:X64  /machine:x64 cmTC_6a137.dir\\Debug\\HAVE_INTTYPES_H.obj
+          cmTC_6a137.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\Debug\\cmTC_6a137.exe
+        FinalizeBuildStatus:
+          "cmTC_6a137.dir\\Debug\\cmTC_6a137.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_6a137.dir\\Debug\\cmTC_6a137.tlog\\cmTC_6a137.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hx4qav\\cmTC_6a137.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.11
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:21 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file limits.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-pqaauj"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-pqaauj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_LIMITS_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-pqaauj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fc4da.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:47
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\cmTC_fc4da.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_fc4da.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_fc4da.dir\\Debug\\cmTC_fc4da.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_fc4da.dir\\Debug\\cmTC_fc4da.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_fc4da.dir\\Debug\\cmTC_fc4da.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fc4da.dir\\Debug\\\\" /Fd"cmTC_fc4da.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\HAVE_LIMITS_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fc4da.dir\\Debug\\\\" /Fd"cmTC_fc4da.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\HAVE_LIMITS_H.c"
+          HAVE_LIMITS_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\Debug\\cmTC_fc4da.exe" /INCREMENTAL /ILK:"cmTC_fc4da.dir\\Debug\\cmTC_fc4da.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-pqaauj/Debug/cmTC_fc4da.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-pqaauj/Debug/cmTC_fc4da.lib" /MACHINE:X64  /machine:x64 cmTC_fc4da.dir\\Debug\\HAVE_LIMITS_H.obj
+          cmTC_fc4da.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\Debug\\cmTC_fc4da.exe
+        FinalizeBuildStatus:
+          "cmTC_fc4da.dir\\Debug\\cmTC_fc4da.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_fc4da.dir\\Debug\\cmTC_fc4da.tlog\\cmTC_fc4da.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pqaauj\\cmTC_fc4da.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.31
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:22 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file locale.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-cqxxvu"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-cqxxvu"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_LOCALE_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-cqxxvu'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b12bb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:53
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\cmTC_b12bb.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_b12bb.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b12bb.dir\\Debug\\cmTC_b12bb.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_b12bb.dir\\Debug\\cmTC_b12bb.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b12bb.dir\\Debug\\cmTC_b12bb.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b12bb.dir\\Debug\\\\" /Fd"cmTC_b12bb.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\HAVE_LOCALE_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b12bb.dir\\Debug\\\\" /Fd"cmTC_b12bb.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\HAVE_LOCALE_H.c"
+          HAVE_LOCALE_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\Debug\\cmTC_b12bb.exe" /INCREMENTAL /ILK:"cmTC_b12bb.dir\\Debug\\cmTC_b12bb.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-cqxxvu/Debug/cmTC_b12bb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-cqxxvu/Debug/cmTC_b12bb.lib" /MACHINE:X64  /machine:x64 cmTC_b12bb.dir\\Debug\\HAVE_LOCALE_H.obj
+          cmTC_b12bb.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\Debug\\cmTC_b12bb.exe
+        FinalizeBuildStatus:
+          "cmTC_b12bb.dir\\Debug\\cmTC_b12bb.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_b12bb.dir\\Debug\\cmTC_b12bb.tlog\\cmTC_b12bb.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cqxxvu\\cmTC_b12bb.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.95
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:23 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file stddef.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-bh6ne4"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-bh6ne4"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-bh6ne4'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fdf87.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:49:59
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\cmTC_fdf87.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_fdf87.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_fdf87.dir\\Debug\\cmTC_fdf87.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_fdf87.dir\\Debug\\cmTC_fdf87.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_fdf87.dir\\Debug\\cmTC_fdf87.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fdf87.dir\\Debug\\\\" /Fd"cmTC_fdf87.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\HAVE_STDDEF_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fdf87.dir\\Debug\\\\" /Fd"cmTC_fdf87.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\HAVE_STDDEF_H.c"
+          HAVE_STDDEF_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\Debug\\cmTC_fdf87.exe" /INCREMENTAL /ILK:"cmTC_fdf87.dir\\Debug\\cmTC_fdf87.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-bh6ne4/Debug/cmTC_fdf87.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-bh6ne4/Debug/cmTC_fdf87.lib" /MACHINE:X64  /machine:x64 cmTC_fdf87.dir\\Debug\\HAVE_STDDEF_H.obj
+          cmTC_fdf87.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\Debug\\cmTC_fdf87.exe
+        FinalizeBuildStatus:
+          "cmTC_fdf87.dir\\Debug\\cmTC_fdf87.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_fdf87.dir\\Debug\\cmTC_fdf87.tlog\\cmTC_fdf87.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bh6ne4\\cmTC_fdf87.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.82
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:24 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file stdint.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-oyajrs"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-oyajrs"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-oyajrs'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3e81d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:04
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\cmTC_3e81d.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_3e81d.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_3e81d.dir\\Debug\\cmTC_3e81d.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_3e81d.dir\\Debug\\cmTC_3e81d.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_3e81d.dir\\Debug\\cmTC_3e81d.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3e81d.dir\\Debug\\\\" /Fd"cmTC_3e81d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\HAVE_STDINT_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3e81d.dir\\Debug\\\\" /Fd"cmTC_3e81d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\HAVE_STDINT_H.c"
+          HAVE_STDINT_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\Debug\\cmTC_3e81d.exe" /INCREMENTAL /ILK:"cmTC_3e81d.dir\\Debug\\cmTC_3e81d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-oyajrs/Debug/cmTC_3e81d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-oyajrs/Debug/cmTC_3e81d.lib" /MACHINE:X64  /machine:x64 cmTC_3e81d.dir\\Debug\\HAVE_STDINT_H.obj
+          cmTC_3e81d.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\Debug\\cmTC_3e81d.exe
+        FinalizeBuildStatus:
+          "cmTC_3e81d.dir\\Debug\\cmTC_3e81d.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_3e81d.dir\\Debug\\cmTC_3e81d.tlog\\cmTC_3e81d.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oyajrs\\cmTC_3e81d.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.91
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:25 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file stdlib.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-dzu6vo"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-dzu6vo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDLIB_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-dzu6vo'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_db452.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:09
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\cmTC_db452.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_db452.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_db452.dir\\Debug\\cmTC_db452.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_db452.dir\\Debug\\cmTC_db452.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_db452.dir\\Debug\\cmTC_db452.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db452.dir\\Debug\\\\" /Fd"cmTC_db452.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\HAVE_STDLIB_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db452.dir\\Debug\\\\" /Fd"cmTC_db452.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\HAVE_STDLIB_H.c"
+          HAVE_STDLIB_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\Debug\\cmTC_db452.exe" /INCREMENTAL /ILK:"cmTC_db452.dir\\Debug\\cmTC_db452.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-dzu6vo/Debug/cmTC_db452.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-dzu6vo/Debug/cmTC_db452.lib" /MACHINE:X64  /machine:x64 cmTC_db452.dir\\Debug\\HAVE_STDLIB_H.obj
+          cmTC_db452.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\Debug\\cmTC_db452.exe
+        FinalizeBuildStatus:
+          "cmTC_db452.dir\\Debug\\cmTC_db452.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_db452.dir\\Debug\\cmTC_db452.tlog\\cmTC_db452.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dzu6vo\\cmTC_db452.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.99
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:26 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file string.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qnnp9u"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qnnp9u"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRING_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qnnp9u'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_16fbd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:14
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\cmTC_16fbd.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_16fbd.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_16fbd.dir\\Debug\\cmTC_16fbd.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_16fbd.dir\\Debug\\cmTC_16fbd.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_16fbd.dir\\Debug\\cmTC_16fbd.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_16fbd.dir\\Debug\\\\" /Fd"cmTC_16fbd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\HAVE_STRING_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_16fbd.dir\\Debug\\\\" /Fd"cmTC_16fbd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\HAVE_STRING_H.c"
+          HAVE_STRING_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\Debug\\cmTC_16fbd.exe" /INCREMENTAL /ILK:"cmTC_16fbd.dir\\Debug\\cmTC_16fbd.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qnnp9u/Debug/cmTC_16fbd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qnnp9u/Debug/cmTC_16fbd.lib" /MACHINE:X64  /machine:x64 cmTC_16fbd.dir\\Debug\\HAVE_STRING_H.obj
+          cmTC_16fbd.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\Debug\\cmTC_16fbd.exe
+        FinalizeBuildStatus:
+          "cmTC_16fbd.dir\\Debug\\cmTC_16fbd.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_16fbd.dir\\Debug\\cmTC_16fbd.tlog\\cmTC_16fbd.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qnnp9u\\cmTC_16fbd.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.41
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:27 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file unistd.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-arpmhf"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-arpmhf"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-arpmhf'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0993f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:20
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\cmTC_0993f.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_0993f.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_0993f.dir\\Debug\\cmTC_0993f.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_0993f.dir\\Debug\\cmTC_0993f.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_0993f.dir\\Debug\\cmTC_0993f.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0993f.dir\\Debug\\\\" /Fd"cmTC_0993f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\HAVE_UNISTD_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0993f.dir\\Debug\\\\" /Fd"cmTC_0993f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\HAVE_UNISTD_H.c"
+          HAVE_UNISTD_H.c
+        C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\HAVE_UNISTD_H.c(2,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'unistd.h': No such file or directory [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\cmTC_0993f.vcxproj]
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\cmTC_0993f.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        
+        鍮뚮뱶?섏? 紐삵뻽?듬땲??
+        
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\cmTC_0993f.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        (ClCompile ?\xc2\x80?? -> 
+          C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\HAVE_UNISTD_H.c(2,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'unistd.h': No such file or directory [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-arpmhf\\cmTC_0993f.vcxproj]
+        
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 1媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.55
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:28 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file wchar.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-y067rr"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-y067rr"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_WCHAR_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-y067rr'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_259c2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:25
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\cmTC_259c2.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_259c2.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_259c2.dir\\Debug\\cmTC_259c2.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_259c2.dir\\Debug\\cmTC_259c2.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_259c2.dir\\Debug\\cmTC_259c2.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_259c2.dir\\Debug\\\\" /Fd"cmTC_259c2.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\HAVE_WCHAR_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_259c2.dir\\Debug\\\\" /Fd"cmTC_259c2.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\HAVE_WCHAR_H.c"
+          HAVE_WCHAR_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\Debug\\cmTC_259c2.exe" /INCREMENTAL /ILK:"cmTC_259c2.dir\\Debug\\cmTC_259c2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-y067rr/Debug/cmTC_259c2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-y067rr/Debug/cmTC_259c2.lib" /MACHINE:X64  /machine:x64 cmTC_259c2.dir\\Debug\\HAVE_WCHAR_H.obj
+          cmTC_259c2.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\Debug\\cmTC_259c2.exe
+        FinalizeBuildStatus:
+          "cmTC_259c2.dir\\Debug\\cmTC_259c2.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_259c2.dir\\Debug\\cmTC_259c2.tlog\\cmTC_259c2.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-y067rr\\cmTC_259c2.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.97
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:29 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file wctype.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qq2fj3"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qq2fj3"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_WCTYPE_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qq2fj3'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_bb4bf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:30
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\cmTC_bb4bf.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_bb4bf.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_bb4bf.dir\\Debug\\cmTC_bb4bf.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_bb4bf.dir\\Debug\\cmTC_bb4bf.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_bb4bf.dir\\Debug\\cmTC_bb4bf.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bb4bf.dir\\Debug\\\\" /Fd"cmTC_bb4bf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\HAVE_WCTYPE_H.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bb4bf.dir\\Debug\\\\" /Fd"cmTC_bb4bf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\HAVE_WCTYPE_H.c"
+          HAVE_WCTYPE_H.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\Debug\\cmTC_bb4bf.exe" /INCREMENTAL /ILK:"cmTC_bb4bf.dir\\Debug\\cmTC_bb4bf.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qq2fj3/Debug/cmTC_bb4bf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qq2fj3/Debug/cmTC_bb4bf.lib" /MACHINE:X64  /machine:x64 cmTC_bb4bf.dir\\Debug\\HAVE_WCTYPE_H.obj
+          cmTC_bb4bf.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\Debug\\cmTC_bb4bf.exe
+        FinalizeBuildStatus:
+          "cmTC_bb4bf.dir\\Debug\\cmTC_bb4bf.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_bb4bf.dir\\Debug\\cmTC_bb4bf.tlog\\cmTC_bb4bf.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qq2fj3\\cmTC_bb4bf.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.42
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:30 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for floor"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hvsrk7"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hvsrk7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_FLOOR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hvsrk7'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1f456.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:36
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\cmTC_1f456.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_1f456.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_1f456.dir\\Debug\\cmTC_1f456.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_1f456.dir\\Debug\\cmTC_1f456.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_1f456.dir\\Debug\\cmTC_1f456.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=floor /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1f456.dir\\Debug\\\\" /Fd"cmTC_1f456.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=floor /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1f456.dir\\Debug\\\\" /Fd"cmTC_1f456.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\Debug\\cmTC_1f456.exe" /INCREMENTAL /ILK:"cmTC_1f456.dir\\Debug\\cmTC_1f456.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hvsrk7/Debug/cmTC_1f456.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-hvsrk7/Debug/cmTC_1f456.lib" /MACHINE:X64  /machine:x64 cmTC_1f456.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_1f456.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\Debug\\cmTC_1f456.exe
+        FinalizeBuildStatus:
+          "cmTC_1f456.dir\\Debug\\cmTC_1f456.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_1f456.dir\\Debug\\cmTC_1f456.tlog\\cmTC_1f456.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hvsrk7\\cmTC_1f456.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.10
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:31 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for isascii"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-vtw4u1"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-vtw4u1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_ISASCII"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-vtw4u1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2261b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:42
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_2261b.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2261b.dir\\Debug\\cmTC_2261b.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_2261b.dir\\Debug\\cmTC_2261b.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2261b.dir\\Debug\\cmTC_2261b.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=isascii /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2261b.dir\\Debug\\\\" /Fd"cmTC_2261b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=isascii /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2261b.dir\\Debug\\\\" /Fd"cmTC_2261b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\Debug\\cmTC_2261b.exe" /INCREMENTAL /ILK:"cmTC_2261b.dir\\Debug\\cmTC_2261b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-vtw4u1/Debug/cmTC_2261b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-vtw4u1/Debug/cmTC_2261b.lib" /MACHINE:X64  /machine:x64 cmTC_2261b.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: isasciimain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj]
+        C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\Debug\\cmTC_2261b.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj]
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        
+        鍮뚮뱶?섏? 紐삵뻽?듬땲??
+        
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        (Link ?\xc2\x80?? -> 
+          CheckFunctionExists.obj : error LNK2019: isasciimain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj]
+          C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\Debug\\cmTC_2261b.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vtw4u1\\cmTC_2261b.vcxproj]
+        
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 2媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.67
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:32 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for localeconv"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-kcdieq"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-kcdieq"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_LOCALECONV"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-kcdieq'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b20a6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:47
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\cmTC_b20a6.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_b20a6.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b20a6.dir\\Debug\\cmTC_b20a6.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_b20a6.dir\\Debug\\cmTC_b20a6.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b20a6.dir\\Debug\\cmTC_b20a6.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=localeconv /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b20a6.dir\\Debug\\\\" /Fd"cmTC_b20a6.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=localeconv /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b20a6.dir\\Debug\\\\" /Fd"cmTC_b20a6.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\Debug\\cmTC_b20a6.exe" /INCREMENTAL /ILK:"cmTC_b20a6.dir\\Debug\\cmTC_b20a6.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-kcdieq/Debug/cmTC_b20a6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-kcdieq/Debug/cmTC_b20a6.lib" /MACHINE:X64  /machine:x64 cmTC_b20a6.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_b20a6.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\Debug\\cmTC_b20a6.exe
+        FinalizeBuildStatus:
+          "cmTC_b20a6.dir\\Debug\\cmTC_b20a6.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_b20a6.dir\\Debug\\cmTC_b20a6.tlog\\cmTC_b20a6.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kcdieq\\cmTC_b20a6.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.80
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:33 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for mblen"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-yzanw2"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-yzanw2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_MBLEN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-yzanw2'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4d9d5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:52
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\cmTC_4d9d5.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_4d9d5.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_4d9d5.dir\\Debug\\cmTC_4d9d5.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_4d9d5.dir\\Debug\\cmTC_4d9d5.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_4d9d5.dir\\Debug\\cmTC_4d9d5.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mblen /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4d9d5.dir\\Debug\\\\" /Fd"cmTC_4d9d5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mblen /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4d9d5.dir\\Debug\\\\" /Fd"cmTC_4d9d5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\Debug\\cmTC_4d9d5.exe" /INCREMENTAL /ILK:"cmTC_4d9d5.dir\\Debug\\cmTC_4d9d5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-yzanw2/Debug/cmTC_4d9d5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-yzanw2/Debug/cmTC_4d9d5.lib" /MACHINE:X64  /machine:x64 cmTC_4d9d5.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_4d9d5.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\Debug\\cmTC_4d9d5.exe
+        FinalizeBuildStatus:
+          "cmTC_4d9d5.dir\\Debug\\cmTC_4d9d5.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_4d9d5.dir\\Debug\\cmTC_4d9d5.tlog\\cmTC_4d9d5.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yzanw2\\cmTC_4d9d5.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.76
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:34 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for memmove"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ouechb"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ouechb"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_MEMMOVE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ouechb'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d5db3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:50:59
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\cmTC_d5db3.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_d5db3.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_d5db3.dir\\Debug\\cmTC_d5db3.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_d5db3.dir\\Debug\\cmTC_d5db3.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_d5db3.dir\\Debug\\cmTC_d5db3.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=memmove /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5db3.dir\\Debug\\\\" /Fd"cmTC_d5db3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=memmove /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5db3.dir\\Debug\\\\" /Fd"cmTC_d5db3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\Debug\\cmTC_d5db3.exe" /INCREMENTAL /ILK:"cmTC_d5db3.dir\\Debug\\cmTC_d5db3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ouechb/Debug/cmTC_d5db3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ouechb/Debug/cmTC_d5db3.lib" /MACHINE:X64  /machine:x64 cmTC_d5db3.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_d5db3.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\Debug\\cmTC_d5db3.exe
+        FinalizeBuildStatus:
+          "cmTC_d5db3.dir\\Debug\\cmTC_d5db3.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_d5db3.dir\\Debug\\cmTC_d5db3.tlog\\cmTC_d5db3.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ouechb\\cmTC_d5db3.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.87
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:35 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for memset"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-4atls7"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-4atls7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_MEMSET"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-4atls7'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8d3f4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:06
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\cmTC_8d3f4.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_8d3f4.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_8d3f4.dir\\Debug\\cmTC_8d3f4.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_8d3f4.dir\\Debug\\cmTC_8d3f4.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_8d3f4.dir\\Debug\\cmTC_8d3f4.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=memset /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8d3f4.dir\\Debug\\\\" /Fd"cmTC_8d3f4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=memset /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8d3f4.dir\\Debug\\\\" /Fd"cmTC_8d3f4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\Debug\\cmTC_8d3f4.exe" /INCREMENTAL /ILK:"cmTC_8d3f4.dir\\Debug\\cmTC_8d3f4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-4atls7/Debug/cmTC_8d3f4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-4atls7/Debug/cmTC_8d3f4.lib" /MACHINE:X64  /machine:x64 cmTC_8d3f4.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_8d3f4.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\Debug\\cmTC_8d3f4.exe
+        FinalizeBuildStatus:
+          "cmTC_8d3f4.dir\\Debug\\cmTC_8d3f4.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_8d3f4.dir\\Debug\\cmTC_8d3f4.tlog\\cmTC_8d3f4.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4atls7\\cmTC_8d3f4.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.96
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:36 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for modf"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-afpa3r"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-afpa3r"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_MODF"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-afpa3r'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0d307.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:12
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\cmTC_0d307.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_0d307.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_0d307.dir\\Debug\\cmTC_0d307.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_0d307.dir\\Debug\\cmTC_0d307.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_0d307.dir\\Debug\\cmTC_0d307.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=modf /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0d307.dir\\Debug\\\\" /Fd"cmTC_0d307.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=modf /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0d307.dir\\Debug\\\\" /Fd"cmTC_0d307.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\Debug\\cmTC_0d307.exe" /INCREMENTAL /ILK:"cmTC_0d307.dir\\Debug\\cmTC_0d307.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-afpa3r/Debug/cmTC_0d307.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-afpa3r/Debug/cmTC_0d307.lib" /MACHINE:X64  /machine:x64 cmTC_0d307.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_0d307.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\Debug\\cmTC_0d307.exe
+        FinalizeBuildStatus:
+          "cmTC_0d307.dir\\Debug\\cmTC_0d307.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_0d307.dir\\Debug\\cmTC_0d307.tlog\\cmTC_0d307.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-afpa3r\\cmTC_0d307.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.10
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:37 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for pow"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qa1qth"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qa1qth"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_POW"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qa1qth'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b68c1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:18
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\cmTC_b68c1.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_b68c1.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b68c1.dir\\Debug\\cmTC_b68c1.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_b68c1.dir\\Debug\\cmTC_b68c1.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b68c1.dir\\Debug\\cmTC_b68c1.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pow /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b68c1.dir\\Debug\\\\" /Fd"cmTC_b68c1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pow /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b68c1.dir\\Debug\\\\" /Fd"cmTC_b68c1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\Debug\\cmTC_b68c1.exe" /INCREMENTAL /ILK:"cmTC_b68c1.dir\\Debug\\cmTC_b68c1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qa1qth/Debug/cmTC_b68c1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-qa1qth/Debug/cmTC_b68c1.lib" /MACHINE:X64  /machine:x64 cmTC_b68c1.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_b68c1.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\Debug\\cmTC_b68c1.exe
+        FinalizeBuildStatus:
+          "cmTC_b68c1.dir\\Debug\\cmTC_b68c1.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_b68c1.dir\\Debug\\cmTC_b68c1.tlog\\cmTC_b68c1.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qa1qth\\cmTC_b68c1.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.22
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:38 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for sqrt"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-nkhdlh"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-nkhdlh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SQRT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-nkhdlh'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2b19b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:24
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\cmTC_2b19b.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_2b19b.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2b19b.dir\\Debug\\cmTC_2b19b.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_2b19b.dir\\Debug\\cmTC_2b19b.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2b19b.dir\\Debug\\cmTC_2b19b.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sqrt /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2b19b.dir\\Debug\\\\" /Fd"cmTC_2b19b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sqrt /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2b19b.dir\\Debug\\\\" /Fd"cmTC_2b19b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\Debug\\cmTC_2b19b.exe" /INCREMENTAL /ILK:"cmTC_2b19b.dir\\Debug\\cmTC_2b19b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-nkhdlh/Debug/cmTC_2b19b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-nkhdlh/Debug/cmTC_2b19b.lib" /MACHINE:X64  /machine:x64 cmTC_2b19b.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_2b19b.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\Debug\\cmTC_2b19b.exe
+        FinalizeBuildStatus:
+          "cmTC_2b19b.dir\\Debug\\cmTC_2b19b.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_2b19b.dir\\Debug\\cmTC_2b19b.tlog\\cmTC_2b19b.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nkhdlh\\cmTC_2b19b.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.01
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:39 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strcasecmp"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-2yxhag"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-2yxhag"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRCASECMP"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-2yxhag'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a4807.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:30
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_a4807.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_a4807.dir\\Debug\\cmTC_a4807.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_a4807.dir\\Debug\\cmTC_a4807.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_a4807.dir\\Debug\\cmTC_a4807.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcasecmp /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4807.dir\\Debug\\\\" /Fd"cmTC_a4807.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcasecmp /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a4807.dir\\Debug\\\\" /Fd"cmTC_a4807.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\Debug\\cmTC_a4807.exe" /INCREMENTAL /ILK:"cmTC_a4807.dir\\Debug\\cmTC_a4807.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-2yxhag/Debug/cmTC_a4807.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-2yxhag/Debug/cmTC_a4807.lib" /MACHINE:X64  /machine:x64 cmTC_a4807.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: strcasecmpmain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj]
+        C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\Debug\\cmTC_a4807.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj]
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        
+        鍮뚮뱶?섏? 紐삵뻽?듬땲??
+        
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        (Link ?\xc2\x80?? -> 
+          CheckFunctionExists.obj : error LNK2019: strcasecmpmain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj]
+          C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\Debug\\cmTC_a4807.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2yxhag\\cmTC_a4807.vcxproj]
+        
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 2媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.59
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:40 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strchr"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-8mhwt0"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-8mhwt0"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRCHR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-8mhwt0'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_13957.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:35
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\cmTC_13957.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_13957.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_13957.dir\\Debug\\cmTC_13957.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_13957.dir\\Debug\\cmTC_13957.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_13957.dir\\Debug\\cmTC_13957.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strchr /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_13957.dir\\Debug\\\\" /Fd"cmTC_13957.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strchr /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_13957.dir\\Debug\\\\" /Fd"cmTC_13957.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\Debug\\cmTC_13957.exe" /INCREMENTAL /ILK:"cmTC_13957.dir\\Debug\\cmTC_13957.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-8mhwt0/Debug/cmTC_13957.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-8mhwt0/Debug/cmTC_13957.lib" /MACHINE:X64  /machine:x64 cmTC_13957.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_13957.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\Debug\\cmTC_13957.exe
+        FinalizeBuildStatus:
+          "cmTC_13957.dir\\Debug\\cmTC_13957.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_13957.dir\\Debug\\cmTC_13957.tlog\\cmTC_13957.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8mhwt0\\cmTC_13957.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.99
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:41 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strerror"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-q1r2yi"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-q1r2yi"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRERROR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-q1r2yi'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_efb99.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:40
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\cmTC_efb99.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_efb99.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_efb99.dir\\Debug\\cmTC_efb99.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_efb99.dir\\Debug\\cmTC_efb99.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_efb99.dir\\Debug\\cmTC_efb99.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strerror /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_efb99.dir\\Debug\\\\" /Fd"cmTC_efb99.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strerror /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_efb99.dir\\Debug\\\\" /Fd"cmTC_efb99.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\Debug\\cmTC_efb99.exe" /INCREMENTAL /ILK:"cmTC_efb99.dir\\Debug\\cmTC_efb99.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-q1r2yi/Debug/cmTC_efb99.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-q1r2yi/Debug/cmTC_efb99.lib" /MACHINE:X64  /machine:x64 cmTC_efb99.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_efb99.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\Debug\\cmTC_efb99.exe
+        FinalizeBuildStatus:
+          "cmTC_efb99.dir\\Debug\\cmTC_efb99.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_efb99.dir\\Debug\\cmTC_efb99.tlog\\cmTC_efb99.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q1r2yi\\cmTC_efb99.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.02
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:42 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strncasecmp"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-mwfb9i"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-mwfb9i"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRNCASECMP"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-mwfb9i'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0d171.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:46
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_0d171.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_0d171.dir\\Debug\\cmTC_0d171.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_0d171.dir\\Debug\\cmTC_0d171.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_0d171.dir\\Debug\\cmTC_0d171.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strncasecmp /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0d171.dir\\Debug\\\\" /Fd"cmTC_0d171.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strncasecmp /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0d171.dir\\Debug\\\\" /Fd"cmTC_0d171.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\Debug\\cmTC_0d171.exe" /INCREMENTAL /ILK:"cmTC_0d171.dir\\Debug\\cmTC_0d171.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-mwfb9i/Debug/cmTC_0d171.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-mwfb9i/Debug/cmTC_0d171.lib" /MACHINE:X64  /machine:x64 cmTC_0d171.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: strncasecmpmain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj]
+        C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\Debug\\cmTC_0d171.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj]
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        
+        鍮뚮뱶?섏? 紐삵뻽?듬땲??
+        
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        (Link ?\xc2\x80?? -> 
+          CheckFunctionExists.obj : error LNK2019: strncasecmpmain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj]
+          C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\Debug\\cmTC_0d171.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mwfb9i\\cmTC_0d171.vcxproj]
+        
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 2媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.70
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:43 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strrchr"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-tu1h9d"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-tu1h9d"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRRCHR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-tu1h9d'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5e279.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:52
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\cmTC_5e279.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_5e279.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_5e279.dir\\Debug\\cmTC_5e279.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_5e279.dir\\Debug\\cmTC_5e279.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_5e279.dir\\Debug\\cmTC_5e279.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strrchr /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e279.dir\\Debug\\\\" /Fd"cmTC_5e279.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strrchr /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e279.dir\\Debug\\\\" /Fd"cmTC_5e279.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\Debug\\cmTC_5e279.exe" /INCREMENTAL /ILK:"cmTC_5e279.dir\\Debug\\cmTC_5e279.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-tu1h9d/Debug/cmTC_5e279.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-tu1h9d/Debug/cmTC_5e279.lib" /MACHINE:X64  /machine:x64 cmTC_5e279.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_5e279.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\Debug\\cmTC_5e279.exe
+        FinalizeBuildStatus:
+          "cmTC_5e279.dir\\Debug\\cmTC_5e279.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_5e279.dir\\Debug\\cmTC_5e279.tlog\\cmTC_5e279.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-tu1h9d\\cmTC_5e279.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.85
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:44 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strstr"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-u4rzql"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-u4rzql"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRSTR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-u4rzql'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9cac8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:51:57
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\cmTC_9cac8.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_9cac8.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_9cac8.dir\\Debug\\cmTC_9cac8.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_9cac8.dir\\Debug\\cmTC_9cac8.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_9cac8.dir\\Debug\\cmTC_9cac8.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strstr /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9cac8.dir\\Debug\\\\" /Fd"cmTC_9cac8.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strstr /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9cac8.dir\\Debug\\\\" /Fd"cmTC_9cac8.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\Debug\\cmTC_9cac8.exe" /INCREMENTAL /ILK:"cmTC_9cac8.dir\\Debug\\cmTC_9cac8.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-u4rzql/Debug/cmTC_9cac8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-u4rzql/Debug/cmTC_9cac8.lib" /MACHINE:X64  /machine:x64 cmTC_9cac8.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_9cac8.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\Debug\\cmTC_9cac8.exe
+        FinalizeBuildStatus:
+          "cmTC_9cac8.dir\\Debug\\cmTC_9cac8.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_9cac8.dir\\Debug\\cmTC_9cac8.tlog\\cmTC_9cac8.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-u4rzql\\cmTC_9cac8.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.16
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:45 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strtol"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-9a2qx7"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-9a2qx7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRTOL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-9a2qx7'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b4d76.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:52:03
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\cmTC_b4d76.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_b4d76.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b4d76.dir\\Debug\\cmTC_b4d76.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_b4d76.dir\\Debug\\cmTC_b4d76.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_b4d76.dir\\Debug\\cmTC_b4d76.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strtol /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b4d76.dir\\Debug\\\\" /Fd"cmTC_b4d76.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strtol /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b4d76.dir\\Debug\\\\" /Fd"cmTC_b4d76.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\Debug\\cmTC_b4d76.exe" /INCREMENTAL /ILK:"cmTC_b4d76.dir\\Debug\\cmTC_b4d76.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-9a2qx7/Debug/cmTC_b4d76.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-9a2qx7/Debug/cmTC_b4d76.lib" /MACHINE:X64  /machine:x64 cmTC_b4d76.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_b4d76.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\Debug\\cmTC_b4d76.exe
+        FinalizeBuildStatus:
+          "cmTC_b4d76.dir\\Debug\\cmTC_b4d76.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_b4d76.dir\\Debug\\cmTC_b4d76.tlog\\cmTC_b4d76.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9a2qx7\\cmTC_b4d76.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.84
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:46 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strtoul"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-osk8od"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-osk8od"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRTOUL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-osk8od'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_63236.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:52:08
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\cmTC_63236.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_63236.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_63236.dir\\Debug\\cmTC_63236.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_63236.dir\\Debug\\cmTC_63236.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_63236.dir\\Debug\\cmTC_63236.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strtoul /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_63236.dir\\Debug\\\\" /Fd"cmTC_63236.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strtoul /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_63236.dir\\Debug\\\\" /Fd"cmTC_63236.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\Debug\\cmTC_63236.exe" /INCREMENTAL /ILK:"cmTC_63236.dir\\Debug\\cmTC_63236.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-osk8od/Debug/cmTC_63236.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-osk8od/Debug/cmTC_63236.lib" /MACHINE:X64  /machine:x64 cmTC_63236.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_63236.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\Debug\\cmTC_63236.exe
+        FinalizeBuildStatus:
+          "cmTC_63236.dir\\Debug\\cmTC_63236.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_63236.dir\\Debug\\cmTC_63236.tlog\\cmTC_63236.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-osk8od\\cmTC_63236.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:03.72
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:47 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strcoll"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-twuq4f"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-twuq4f"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRCOLL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-twuq4f'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_15bd9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:52:13
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\cmTC_15bd9.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_15bd9.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_15bd9.dir\\Debug\\cmTC_15bd9.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_15bd9.dir\\Debug\\cmTC_15bd9.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_15bd9.dir\\Debug\\cmTC_15bd9.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcoll /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_15bd9.dir\\Debug\\\\" /Fd"cmTC_15bd9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcoll /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_15bd9.dir\\Debug\\\\" /Fd"cmTC_15bd9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\Debug\\cmTC_15bd9.exe" /INCREMENTAL /ILK:"cmTC_15bd9.dir\\Debug\\cmTC_15bd9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-twuq4f/Debug/cmTC_15bd9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-twuq4f/Debug/cmTC_15bd9.lib" /MACHINE:X64  /machine:x64 cmTC_15bd9.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_15bd9.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\Debug\\cmTC_15bd9.exe
+        FinalizeBuildStatus:
+          "cmTC_15bd9.dir\\Debug\\cmTC_15bd9.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_15bd9.dir\\Debug\\cmTC_15bd9.tlog\\cmTC_15bd9.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-twuq4f\\cmTC_15bd9.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:04.12
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:48 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for strftime"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-308547"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-308547"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STRFTIME"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-308547'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1db37.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:52:18
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\cmTC_1db37.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_1db37.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_1db37.dir\\Debug\\cmTC_1db37.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_1db37.dir\\Debug\\cmTC_1db37.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_1db37.dir\\Debug\\cmTC_1db37.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strftime /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1db37.dir\\Debug\\\\" /Fd"cmTC_1db37.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strftime /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1db37.dir\\Debug\\\\" /Fd"cmTC_1db37.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\Debug\\cmTC_1db37.exe" /INCREMENTAL /ILK:"cmTC_1db37.dir\\Debug\\cmTC_1db37.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-308547/Debug/cmTC_1db37.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-308547/Debug/cmTC_1db37.lib" /MACHINE:X64  /machine:x64 cmTC_1db37.dir\\Debug\\CheckFunctionExists.obj
+          cmTC_1db37.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\Debug\\cmTC_1db37.exe
+        FinalizeBuildStatus:
+          "cmTC_1db37.dir\\Debug\\cmTC_1db37.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_1db37.dir\\Debug\\cmTC_1db37.tlog\\cmTC_1db37.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-308547\\cmTC_1db37.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:54.53
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:49 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for vprintf"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-zr2w38"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-zr2w38"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_VPRINTF"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-zr2w38'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f0820.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:53:14
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_f0820.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_f0820.dir\\Debug\\cmTC_f0820.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_f0820.dir\\Debug\\cmTC_f0820.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_f0820.dir\\Debug\\cmTC_f0820.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=vprintf /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f0820.dir\\Debug\\\\" /Fd"cmTC_f0820.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=vprintf /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f0820.dir\\Debug\\\\" /Fd"cmTC_f0820.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\Debug\\cmTC_f0820.exe" /INCREMENTAL /ILK:"cmTC_f0820.dir\\Debug\\cmTC_f0820.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-zr2w38/Debug/cmTC_f0820.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-zr2w38/Debug/cmTC_f0820.lib" /MACHINE:X64  /machine:x64 cmTC_f0820.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: vprintfmain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj]
+        C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\Debug\\cmTC_f0820.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj]
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        
+        鍮뚮뱶?섏? 紐삵뻽?듬땲??
+        
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        (Link ?\xc2\x80?? -> 
+          CheckFunctionExists.obj : error LNK2019: vprintfmain ?⑥닔?먯꽌 李몄“?섎뒗 ?뺤씤?????녿뒗 ?몃? 湲고샇 [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj]
+          C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\Debug\\cmTC_f0820.exe : fatal error LNK1120: 1媛쒖쓽 ?뺤씤?????녿뒗 ?몃? 李몄“?낅땲?? [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zr2w38\\cmTC_f0820.vcxproj]
+        
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 2媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:02.68
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "CMakeLists.txt:50 (CHECK_TYPE_SIZE)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-iqd1vu"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-iqd1vu"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-iqd1vu'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_48fe2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:53:18
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\cmTC_48fe2.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_48fe2.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_48fe2.dir\\Debug\\cmTC_48fe2.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_48fe2.dir\\Debug\\cmTC_48fe2.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_48fe2.dir\\Debug\\cmTC_48fe2.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_48fe2.dir\\Debug\\\\" /Fd"cmTC_48fe2.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_48fe2.dir\\Debug\\\\" /Fd"cmTC_48fe2.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\Debug\\cmTC_48fe2.exe" /INCREMENTAL /ILK:"cmTC_48fe2.dir\\Debug\\cmTC_48fe2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-iqd1vu/Debug/cmTC_48fe2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-iqd1vu/Debug/cmTC_48fe2.lib" /MACHINE:X64  /machine:x64 cmTC_48fe2.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_48fe2.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\Debug\\cmTC_48fe2.exe
+        FinalizeBuildStatus:
+          "cmTC_48fe2.dir\\Debug\\cmTC_48fe2.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_48fe2.dir\\Debug\\cmTC_48fe2.tlog\\cmTC_48fe2.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-iqd1vu\\cmTC_48fe2.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:02.65
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckTypeSize.cmake:147 (try_compile)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckTypeSize.cmake:272 (__check_type_size_impl)"
+      - "CMakeLists.txt:50 (CHECK_TYPE_SIZE)"
+    checks:
+      - "Check size of ptrdiff_t"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-a2vjgj"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-a2vjgj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SIZEOF_PTRDIFF_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-a2vjgj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cb2e8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:53:21
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\cmTC_cb2e8.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_cb2e8.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_cb2e8.dir\\Debug\\cmTC_cb2e8.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_cb2e8.dir\\Debug\\cmTC_cb2e8.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_cb2e8.dir\\Debug\\cmTC_cb2e8.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cb2e8.dir\\Debug\\\\" /Fd"cmTC_cb2e8.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\SIZEOF_PTRDIFF_T.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cb2e8.dir\\Debug\\\\" /Fd"cmTC_cb2e8.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\SIZEOF_PTRDIFF_T.c"
+          SIZEOF_PTRDIFF_T.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\Debug\\cmTC_cb2e8.exe" /INCREMENTAL /ILK:"cmTC_cb2e8.dir\\Debug\\cmTC_cb2e8.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-a2vjgj/Debug/cmTC_cb2e8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-a2vjgj/Debug/cmTC_cb2e8.lib" /MACHINE:X64  /machine:x64 cmTC_cb2e8.dir\\Debug\\SIZEOF_PTRDIFF_T.obj
+          cmTC_cb2e8.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\Debug\\cmTC_cb2e8.exe
+        FinalizeBuildStatus:
+          "cmTC_cb2e8.dir\\Debug\\cmTC_cb2e8.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_cb2e8.dir\\Debug\\cmTC_cb2e8.tlog\\cmTC_cb2e8.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-a2vjgj\\cmTC_cb2e8.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:02.58
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckTypeSize.cmake:147 (try_compile)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckTypeSize.cmake:272 (__check_type_size_impl)"
+      - "CMakeLists.txt:56 (CHECK_TYPE_SIZE)"
+    checks:
+      - "Check size of size_t"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-7prxu9"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-7prxu9"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SIZEOF_SIZE_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-7prxu9'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7ed47.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:53:25
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\cmTC_7ed47.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_7ed47.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_7ed47.dir\\Debug\\cmTC_7ed47.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_7ed47.dir\\Debug\\cmTC_7ed47.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_7ed47.dir\\Debug\\cmTC_7ed47.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ed47.dir\\Debug\\\\" /Fd"cmTC_7ed47.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\SIZEOF_SIZE_T.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ed47.dir\\Debug\\\\" /Fd"cmTC_7ed47.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\SIZEOF_SIZE_T.c"
+          SIZEOF_SIZE_T.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\Debug\\cmTC_7ed47.exe" /INCREMENTAL /ILK:"cmTC_7ed47.dir\\Debug\\cmTC_7ed47.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-7prxu9/Debug/cmTC_7ed47.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-7prxu9/Debug/cmTC_7ed47.lib" /MACHINE:X64  /machine:x64 cmTC_7ed47.dir\\Debug\\SIZEOF_SIZE_T.obj
+          cmTC_7ed47.vcxproj -> C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\Debug\\cmTC_7ed47.exe
+        FinalizeBuildStatus:
+          "cmTC_7ed47.dir\\Debug\\cmTC_7ed47.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_7ed47.dir\\Debug\\cmTC_7ed47.tlog\\cmTC_7ed47.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7prxu9\\cmTC_7ed47.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+        
+        鍮뚮뱶?덉뒿?덈떎.
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 0媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:02.46
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckSymbolExists.cmake:154 (try_compile)"
+      - "C:/ProgramData/miniconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:63 (CHECK_SYMBOL_EXISTS)"
+    checks:
+      - "Looking for struct tm"
+    directories:
+      source: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ilp3o6"
+      binary: "C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ilp3o6"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "TM_IN_SYS_TIME"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/dev/build/CMakeFiles/CMakeScratch/TryCompile-ilp3o6'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fcb9d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
+        鍮뚮뱶 ?쒖옉: 2024-10-20 ?ㅽ썑 4:53:28
+        
+        1 ?몃뱶??"C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\cmTC_fcb9d.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        PrepareForBuild:
+          "cmTC_fcb9d.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
+          "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_fcb9d.dir\\Debug\\cmTC_fcb9d.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+        InitializeBuildStatus:
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_fcb9d.dir\\Debug\\cmTC_fcb9d.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_fcb9d.dir\\Debug\\cmTC_fcb9d.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX86\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fcb9d.dir\\Debug\\\\" /Fd"cmTC_fcb9d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\CheckSymbolExists.c"
+          Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
+          Copyright (c) Microsoft Corporation. All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fcb9d.dir\\Debug\\\\" /Fd"cmTC_fcb9d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\CheckSymbolExists.c"
+          CheckSymbolExists.c
+        C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\CheckSymbolExists.c(2,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'sys/time.h': No such file or directory [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\cmTC_fcb9d.vcxproj]
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\cmTC_fcb9d.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        
+        鍮뚮뱶?섏? 紐삵뻽?듬땲??
+        
+        "C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\cmTC_fcb9d.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        (ClCompile ?\xc2\x80?? -> 
+          C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\CheckSymbolExists.c(2,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'sys/time.h': No such file or directory [C:\\dev\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ilp3o6\\cmTC_fcb9d.vcxproj]
+        
+            寃쎄퀬 0媛?
+            ?ㅻ쪟 1媛?
+        
+        寃쎄낵 ?쒓컙: 00:00:02.16
+        
+      exitCode: 1
+...

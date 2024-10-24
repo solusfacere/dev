@@ -1,0 +1,4 @@
+C:/dev/build/CMakeFiles/ta_lib.dir
+C:/dev/build/CMakeFiles/ta_lib_static.dir
+C:/dev/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x86</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{45DAB260-2A09-3DD6-8F76-BFBBC72CE3B5}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ZERO_CHECK</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\ta-lib-python\ta-lib\include;C:\dev\ta-lib-python\ta-lib\src\ta_abstract;C:\dev\ta-lib-python\ta-lib\src\ta_abstract\frames;C:\dev\ta-lib-python\ta-lib\src\ta_common;C:\dev\ta-lib-python\ta-lib\src\ta_func;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\ta-lib-python\ta-lib\include;C:\dev\ta-lib-python\ta-lib\src\ta_abstract;C:\dev\ta-lib-python\ta-lib\src\ta_abstract\frames;C:\dev\ta-lib-python\ta-lib\src\ta_common;C:\dev\ta-lib-python\ta-lib\src\ta_func;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\ta-lib-python\ta-lib\include;C:\dev\ta-lib-python\ta-lib\src\ta_abstract;C:\dev\ta-lib-python\ta-lib\src\ta_abstract\frames;C:\dev\ta-lib-python\ta-lib\src\ta_common;C:\dev\ta-lib-python\ta-lib\src\ta_func;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\ta-lib-python\ta-lib\include;C:\dev\ta-lib-python\ta-lib\src\ta_abstract;C:\dev\ta-lib-python\ta-lib\src\ta_abstract\frames;C:\dev\ta-lib-python\ta-lib\src\ta_common;C:\dev\ta-lib-python\ta-lib\src\ta_func;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\build\CMakeFiles\b214ee9b255775ab9f8f71fa0f74c15b\generate.stamp.rule">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Checking Build System</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/dev/ta-lib-python/ta-lib -BC:/dev/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/build/ta-lib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\GenerateExportHeader.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCXXCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeRCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeSystem.cmake;C:\dev\ta-lib-python\ta-lib\CMakeLists.txt;C:\dev\ta-lib-python\ta-lib\include\ta_config.h.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\dev\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Checking Build System</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/dev/ta-lib-python/ta-lib -BC:/dev/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/build/ta-lib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\GenerateExportHeader.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCXXCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeRCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeSystem.cmake;C:\dev\ta-lib-python\ta-lib\CMakeLists.txt;C:\dev\ta-lib-python\ta-lib\include\ta_config.h.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\dev\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Checking Build System</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/dev/ta-lib-python/ta-lib -BC:/dev/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/build/ta-lib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\GenerateExportHeader.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCXXCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeRCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeSystem.cmake;C:\dev\ta-lib-python\ta-lib\CMakeLists.txt;C:\dev\ta-lib-python\ta-lib\include\ta_config.h.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\dev\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <BuildInParallel Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</BuildInParallel>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Checking Build System</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/dev/ta-lib-python/ta-lib -BC:/dev/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/build/ta-lib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCXXInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeCommonLanguageInclude.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeGenericSystem.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeInitializeConfigs.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeLanguageInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeRCInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInformation.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CMakeSystemSpecificInitialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCXXSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckFunctionExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFile.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFileCXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckIncludeFiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckSymbolExists.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\CheckTypeSize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Compiler\MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\GenerateExportHeader.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckCompilerFlag.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckFlagCommonConfig.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Internal\CheckSourceCompiles.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-Initialize.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-C.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC-CXX.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows-MSVC.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\Windows.cmake;C:\ProgramData\miniconda3\Lib\site-packages\cmake\data\share\cmake-3.30\Modules\Platform\WindowsPaths.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeCXXCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeRCCompiler.cmake;C:\dev\build\CMakeFiles\3.30.4\CMakeSystem.cmake;C:\dev\ta-lib-python\ta-lib\CMakeLists.txt;C:\dev\ta-lib-python\ta-lib\include\ta_config.h.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\dev\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
